@@ -1,6 +1,19 @@
 # Introdução
 
-[Aqui a equipe deve criar um texto descritivo com a visão geral do problema abordado, apresentando o ambiente e as situações envolvidas no problema.]
+A pandemia de covid mudou drasticamente como nos relacionamos e impactou diversos setores da nossa economia. Um dos setores mais afetados foi o de turismo.
+
+Segundo Allaoua Saadi, professor titular aposentado do Instituto de Geociências da UFMG (IGC) e pesquisador da área de planejamento turístico:
+
+“O turista que era antes um procurado como um gerador de renda foi enxergado agora como um gerador de doenças. Então, primeiro foram vários meses de perda total. À medida que os indicadores demonstraram uma baixa de contaminação, as prefeituras permitiram 50% da ocupação, com uma série de protocolos. E aí vem o segundo problema: o custo para as estruturas de hospedagem, porque inclui um investimento, em todos os quartos, de higienização forte, sabão, álcool, 70%. Então, ao mesmo tempo, há uma diminuição drástica da receita e um aumento do investimento” (SAADI, 2021).
+
+
+
+Neste contexto, o setor de turismo sofreu drásticas perdas financeiras e ainda enfrenta muitas dificuldades para conseguir a “volta da normalidade”.
+ 
+Esse cenário se torna mais grave em cidades pequenas devido a falta de incentivo, e até mesmo engajamento, e consequentemente a busca por esses pontos não são prioridades para turistas.
+
+Neste sentido, cidades como Mariana – MG,Monte Verde – MG e Ouro Preto – MG são exemplos de cidades pequenas e turísticas.
+
 
 ## Problema
 [Aqui a equipe deve fornecer uma descrição detalhada do problema a ser resolvido. Não é o momento adequado para abordar questões técnicas relacionadas ao desenvolvimento da aplicação. O objetivo é compreender e comunicar de maneira precisa qual é o desafio ou necessidade que motiva a criação da aplicação.]
