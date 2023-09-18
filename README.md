@@ -1,26 +1,27 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/sy1vqBms)
-# Título do Projeto
+# Trail - Ferramenta de Check-in
 
-`CURSO`
+`ADS`
 
-`DISCIPLINA`
+`Projeto Desenvolvimento de Aplicação Web Front-End `
 
-`SEMESTRE`
+`Eixo 01`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
+Trail é uma prospota de aplicação web como ferramenta para apresentar ao turista os melhores pontos turísticos de uma região, é uma alternativa para lidar com a necessidade de divulgar a cidade e seus atrativos turísticos. O plano é contribuir com a conquista de turistas e também auxiliar na manutenção e fidelização dos mesmos, beneficiando os turistas e a comunidade local . Esta aplicação forncerá ao turista roteiros, possibilidade de fazer checkin nos pontos turisticos e avaliar os pontos visitados.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Bianca Ribeiro Conceição
+* Luis Gustavo da Silva Ramos
+* Pedro Freire Soares
+* Raissa Leite Magalhães Saunier
+* Wagner Godoy da Costa
+* Willian Barbosa de Andrade
 
 ## Orientador
 
-* Nome completo do professor
+* Marcos André Silveira Kutova
+
 
 # Documentação
 
