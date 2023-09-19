@@ -49,4 +49,4 @@ Trail é uma prospota de aplicação web que apresenta ao turista os melhores po
 
 * <a href="apresentacao/README.md">Apresentação do Projeto</a>
 
-## Aplicações relacionadas
+# Aplicações relacionadas
