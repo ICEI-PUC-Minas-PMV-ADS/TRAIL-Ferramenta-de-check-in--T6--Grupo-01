@@ -7,7 +7,7 @@
 
 `Eixo 01`
 
-Trail é uma prospota de aplicação web como ferramenta para apresentar ao turista os melhores pontos turísticos de uma região, é uma alternativa para lidar com a necessidade de divulgar a cidade e seus atrativos turísticos. O plano é contribuir com a conquista de turistas e também auxiliar na manutenção e fidelização dos mesmos, beneficiando os turistas e a comunidade local . Esta aplicação forncerá ao turista roteiros, possibilidade de fazer checkin nos pontos turisticos e avaliar os pontos visitados.
+Trail é uma prospota de aplicação web que apresenta ao turista os melhores pontos turísticos de uma região, é uma alternativa para lidar com a necessidade de divulgar a cidade e seus atrativos turísticos. O plano é contribuir com a conquista de turistas e também auxiliar na manutenção e fidelização dos mesmos, beneficiando os turistas e a comunidade local . Esta aplicação forncerá ao turista roteiros, possibilidade de fazer checkin nos pontos turisticos e avaliar os pontos visitados.
 
 ## Integrantes
 
