@@ -44,15 +44,38 @@ MINISTÉRIO DO TURISMO. Portal do Turismo. A necessidade de compreender os desaf
 
  Em resumo, a elaboração de um projeto para apresentar ao turista os melhores pontos turísticos de uma região, é uma alternativa para lidar com a necessidade de divulgar a cidade. O plano é contribuir com a conquista de turistas e também auxiliar na manutenção e fidelização dos mesmos, beneficiando os turista comunidade local.
 
+## Aplicações Similares (Referências)
+
+[Kekanto](https://kekanto.com.br/)
+
+**Kekanto** é um guia gratuito sobre cidades para Android, iOS, Windows Phone e Web que apresenta vários estabelecimentos, como restaurantes, bares, lojas etc. 
+Com ele, o usuário pode descobrir novos lugares, avaliá-los e comparar as opiniões dos frequentadores. A visão desta aplicação abrange todos setores de uma região e não foca em um público específico gerando muita informação desnecessária.
+
+[Sygic Travel Mapas Offline](https://apps.apple.com/br/app/sygic-travel-mapas-offline/id519058033)
+
+**Sygic Travel Mapas Offline | Planejar Viagens, Guia Cidade.** 
+O usuário pode descobrir atividades e pontos de interesse, em qualquer lugar que esteja. Planejar itinerários de viagem detalhados. Aplicativo pago que contém inúmeras propagandas dificultando o acesso do usuário
+
+[Tripadvisor](https://www.tripadvisor.com.br/)
+
+**Tripadvisor** é um site de viagens que fornece informações e opiniões de conteúdos relacionados ao turismo. Ele também inclui fóruns de viagens interativos. Esse site foi um dos primeiros a adotar um conteúdo gerado pelo usuário, que fornece a maior parte do conteúdo, e é sustentado por um modelo de negócio de publicidade. Por ser uma aplicação de grande porte, o atendimento ao cliente deixa a desejar com inúmeras reclamações dos estabelecimentos que perdem seus feedbacks e posição no ranking e de clientes insatisfeitos com os produtos indicados como melhores da região.
+
+[Estrada Real](https://institutoestradareal.com.br/)
+
+**Estrada Real** é uma aplicação que fornece 4 diferentes trajetos, é a maior rota turística do país. São mais de 1.630 quilômetros de extensão, passando por Minas Gerais, Rio de Janeiro e São Paulo. Dentro do site é possível encontrar fotos do trajeto, mapas e 5 produtores locais que estão situados nos trajetos. 
+Durante o percurso, você encontrará pontos para Check-in do Passaporte Virtual e diversos Pontos de Carimbo, para seu passaporte físico, espalhados por algumas cidades que fazem parte do Caminho. O formato se torna limitado, devido a sua concepção central, definida pelas 4 rotas que limita o turista conhecer algo diferente após passar pelas 4 opções.
+
+[Foursquare](https://foursquare.com/)
+
+**Foursquare** Focada na tecnologia de geolocalização, une as funcionalidades do sistema de GPS com a interatividade das redes sociais.Mas, talvez, o grande diferencial do Foursquare seja a comunicação entre o usuário e o ambiente, algo que na época do lançamento era uma inovação.
+No início, a ideia era aplicar o sistema de gamificação.O desafio funcionava da seguinte maneira: as pessoas iam aos locais, faziam check-ins e aquele que repetisse a ação por mais vezes, tornava-se o prefeito do local. Entretanto com o passar do tempo acabou não cumprindo essa promessa na sua totalidade. 
+Foursquare ficou com um guia turístico e criaram outro aplicativo chamado Swarm para fazer check in e conferir os locais que você mais visitou e conseguir compartilhar com amigos. 
+
 
 ## Público-Alvo
 
-[Aqui é necessário descrever os atores envolvidos no problema, destacando os diferentes perfis de usuários. O propósito é apresentar as características, necessidades, conhecimentos prévios e experiência com a tecnologia do público-alvo.
+O projeto abrange dois públicos de diferentes maneiras: 
 
-Sugere-se que a equipe utilize questionários e/ou entrevistas a fim de conhecer os atores que compõem o público alvo.]
-
-Os links abaixo podem ajudar a equipe a conhecer um pouco mais sobre o público-alvo. 
-
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
+* Em um primeiro momento os Stakeholders serão gestores públicos ligados ao turismo e cultura; profissionais e estabelecimentos atuantes no setor de turismo de uma cidade ou região que queiram ampliar e/ou desenvolver atividades relacionadas ao turismo.
+* Em um segundo momento e em paralelo ao público mencionado acima, nossa aplicação foca no turista, pessoas que gostam de descobrir novos lugares e revisitar pontos marcantes, que estejam inseridos em redes sociais e que sejam consumidores de cultura e aventura.
 
