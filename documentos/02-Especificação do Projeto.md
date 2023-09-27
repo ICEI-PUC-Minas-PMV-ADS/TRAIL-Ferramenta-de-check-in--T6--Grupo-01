@@ -7,15 +7,38 @@
 <table>
 <tbody>
 <tr align=center>
-<th colspan="2">Agente de turismo </th>
+<th colspan="2">Perfis de Usuários </th>
 </tr>
 <tr>
-<td width="150px"><b>Promotor de turismo de uma cidade</b></td>
-<td width="600px">...</td>
+<td width="150px"><b>Perfil 01</b></td>
+<td width="600px">Agente de Turismo</td>
+</tr>
+<tr>
+<td width="150px"><b>Descrição</b></td>
+<td width="600px">Promotor de turismo de uma cidade</td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td>...</td>
+<td>Catalogar pontos turísticos e criar roteiro para direcionar o turista
+para que possa otimizar seu tempo e ter melhor experiência.</td>
+</tr>
+    <tr>
+<td width="150px"><b></b></td>
+<td width="600px"></td>
+</tr>
+  <tr>
+<td width="150px"><b>Perfil 02</b></td>
+<td width="600px">Turista</td>
+</tr>
+<tr>
+<td width="150px"><b>Descrição</b></td>
+<td width="600px">Pessoa que busca conhecer novos lugares com roteiro pré definido</td>
+</tr>
+<tr>
+<td><b>Necessidades</b></td>
+<td>Definir pontos turísticos de interesse, visualizar avaliação de outros
+turistas, avaliar os pontos turísticos do roteiro, fazer check-in nos
+pontos turísticos e postar fotos dentro da aplicação.</td>
 </tr>
 </tbody>
 </table>
