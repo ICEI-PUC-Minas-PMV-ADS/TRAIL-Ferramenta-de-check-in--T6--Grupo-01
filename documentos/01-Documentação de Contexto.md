@@ -16,24 +16,34 @@ Neste sentido, cidades como Mariana – MG,Monte Verde – MG e Ouro Preto – M
 
 
 ## Problema
-[Aqui a equipe deve fornecer uma descrição detalhada do problema a ser resolvido. Não é o momento adequado para abordar questões técnicas relacionadas ao desenvolvimento da aplicação. O objetivo é compreender e comunicar de maneira precisa qual é o desafio ou necessidade que motiva a criação da aplicação.]
 
-Este link pode ajudar a equipe a entender mais sobre definição do problema: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-
+Os agentes de turismo de cidades pequenas têm dificuldade de atrair turistas.
 
 ## Objetivos
 
-[Aqui a equipe deve realizar uma descrição detalhada dos objetivos do trabalho, ressaltando quais as questões principais do problema a serem resolvidas pelo projeto, não é a hora de apresentar requisitos detalhados.]
- 
-Este link pode ajudar a equipe a entender mais sobre definição dos objetivos: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
+Criar uma aplicação web que registre as visitas a pontos turísticos.
+
+OBJETIVOS ESPECÍFICOS
+* Os promotores de turismo devem promover seus pontos turísticos
+* Os usuários devem poder marcar os pontos visitados
+* Permitir que o usuário registre as visitas com selfie
+* Gamificar a experiência de check-in dos pontos turísticos
+* Avaliar e comparar as opiniões dos usuários 
+
+
 
 ## Justificativa
 
-[Aqui a equipe deve descrever a importância ou a motivação para trabalhar com o problema definido. Indique as razões pelas quais a equipe escolheu o problema e definiu os objetivos.
+ As pequenas cidades possuem uma comunicação pouco eficiente quando se trata de divulgar suas potencialidades turísticas. Isso é fruto da falta de informações que as pessoas possuem da própria cidade. Não apenas isso, as pessoas ligadas à divulgação dos atrativos muitas vezes não têm conhecimento turístico e/ou ferramentas  para divulgar, portanto, acabam direcionando os turistas para outras cidades que possuem uma imagem de destino turístico consolidado.
 
-Devem ser apresentados dados de fontes relevantes e confiáveis sobre o problema, inserindo-o como alvo de estudo. Sugere-se que a equipe utilize questionários, entrevistas e dados estatísticos, que devem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pela equipe.]
+ Segundo informação resgistrada no Portal do turismo, "Novo mapa atualizado de 2022 do turismo brasileiro registra 2542 cidades de 322 regiões turísticas.”
+MINISTÉRIO DO TURISMO. Portal do Turismo. A necessidade de compreender os desafios vividos pelos pequenos municípios ao buscarem no turismo forma de incentivar um fluxo maior de pessoas nestas localidades, nos incentiva a criação de um site voltado para ajudar o turismo em cidades pequenas, justificada por diversos motivos que destacam a importância e os benefícios que a plataforma pode trazer, são elas:
 
-Este link pode ajudar a equipe a formular a justificativa: [Como montar a justificativa.](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+   - Promoção e visibilidade, pois muitas cidades possuem atrativos turísticos únicos, mas frequentemente têm dificuldade em promover esses pontos de forma eficaz;
+   - Facilitar o acesso do turista a pontos de interesse como hotéis, pousadas, restaurantes, e até mesmo guias turísticos, que bem direcionado podem impulsionar a economia local.
+
+ Em resumo, a elaboração de um projeto para apresentar ao turista os melhores pontos turísticos de uma região, é uma alternativa para lidar com a necessidade de divulgar a cidade. O plano é contribuir com a conquista de turistas e também auxiliar na manutenção e fidelização dos mesmos, beneficiando os turista comunidade local.
+
 
 ## Público-Alvo
 
