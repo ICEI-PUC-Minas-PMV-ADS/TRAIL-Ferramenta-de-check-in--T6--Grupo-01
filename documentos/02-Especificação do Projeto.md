@@ -7,10 +7,10 @@
 <table>
 <tbody>
 <tr align=center>
-<th colspan="2">Perfil Nome </th>
+<th colspan="2">Agente de turismo </th>
 </tr>
 <tr>
-<td width="150px"><b>Descrição</b></td>
+<td width="150px"><b>Promotor de turismo de uma cidade</b></td>
 <td width="600px">...</td>
 </tr>
 <tr>
