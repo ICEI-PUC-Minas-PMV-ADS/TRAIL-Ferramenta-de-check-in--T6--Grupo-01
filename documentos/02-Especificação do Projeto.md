@@ -2,8 +2,6 @@
 
 ## Perfis de Usuários
 
-[Enumere e faça o detalhamento dos perfis de usuários. Utilize o modelo de tabela abaixo para sintetizá-los.]
-
 <table>
 <tbody>
 <tr align=center>
@@ -46,41 +44,33 @@ pontos turísticos e postar fotos dentro da aplicação.</td>
 
 ## Histórias de Usuários
 
-[Apresente aqui as histórias de usuários que são relevantes para o projeto da solução.]
-
-> **Link Útil**:
-> - [Como escrever boas histórias de usuário](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-
-[Utilize o modelo de tabela abaixo para apresentar as histórias de usuários.]
-
 |EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|---------------------------|----------------------------------|
-| ...                | ...                       | ...                              |
-| ...                | ...                       | ...                              |
-
+|Eu como Agente de Turismo|Quero criar uma forma de apresentar <br> aos turistas os pontos turisticos da região|Para criar opções e atender<br> o maior número possível de turistas|
+| Eu como Turista | Quero um roteiro com diferentes<br>pontos turísticos de uma cidade |Para me orientar, otimizar meu tempo.|
+|Eu como Agente de Turismo|Quero divulgar comércios locais e pousadas.|Para aumentar o fluxo de clientes.|
+| Eu como Turista | Quero poder postar fotos dos pontos que mais gostei dentro da plataforma |Para poder criar um álbum e mostrar para meus amigos, e indicar meus lugares.|
 ## Requisitos do Projeto
-
-[Com base nas Histórias de Usuários, enumere os requisitos da solução. Lembre-se que cada requisito deve corresponder a uma, e somente uma, característica alvo da solução. Além disso, certifique-se de que todos os aspectos capturados nas Histórias de Usuário foram cobertos.]
 
 ### Requisitos Funcionais
 
-[Utilize o modelo de tabela abaixo para apresentar os requisitos funcionais]
-
 |ID    | Descrição                | Prioridade |
 |-------|---------------------------------|----|
-| RF-01 |  ...                    | ...   | 
-|  ...  |  ...                    | ...   |
+| RF-01 |  O site deve permitir que os usuários se cadastrem e façam login no site. | Alta   | 
+| RF-02 |  O site deve criar 2 perfis. 1 perfil de turista e 1 um perfil de agente de turismo.  | Alta   |
+| RF-03 |  O site deve ter um roteiro com diferentes pontos turísticos. | Alta |
+| RF-04 |  O site deve permitir que o perfil agente de turismo possa criar dentro <br>do roteiro da cidade indicações de comércios e pousadas locais| Alta|
+| RF-05 | O site deve permitir fazer check in em locais pré determinados, e a validação <br> deverá ser por meio de selfie. | Alta |
 
 **Prioridade: Alta / Média / Baixa. 
 
 ### Requisitos não Funcionais
 
-[Utilize o modelo de tabela abaixo para apresentar os requisitos não-funcionais]
-
 |ID      | Descrição               |Prioridade |
 |--------|-------------------------|----|
-| RNF-01 |  ...                    | ...   | 
-| ...    |  ...                    | ...   | 
+| RNF-01 | O site deve garantir uma experiência de usuário ágil e responsiva, onde <bR> as solicitações sejam processadas e respondidas em um intervalo rápido. | Alta   | 
+| RNF-02 | Assegurar a privacidade dos dados do usuários conforme LGPD. | Média  |
+| RNF-03 | O site deve ser desenvolvido para ser responsivo e adaptável em diferentes dispositivos. | Alta | 
 
 **Prioridade: Alta / Média / Baixa. 
 
