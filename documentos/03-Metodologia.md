@@ -9,6 +9,8 @@
   * **PRODUCT OWNER:** É responsável por definir e priorizar as funcionalidades do produto e manter a visão do mesmo;
   * **EQUIPE DE DESENVOLVIMENTO:** O grupo de pessoas encarregados de criar o produto.
 
+  Além dos papéis, as **Sprints** serão entregues de acordo com cada etapa do projeto, de forma que já tem data marcada. Mais um recurso utilizado na metodologia, são os **Eventos** que são reuniões para definição de cada sprint, ou seja, incrementos que serão readaptados no projeto, nos eventos ocorrem as divisões de papéis para que cada etapa seja feita de forma organizada e efetiva.
+
 
 
 ## Gerenciamento de Projeto
