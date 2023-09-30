@@ -27,12 +27,34 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
 
 
 ### Processo
-
-[Adicione informações sobre detalhes da implementação do Scrum seguido pela equipe. A equipe poderá fazer uso de ferramentas on-line (GitHub Project ou Trello) para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução. O quadro Kanban deverá apresentar a estrutura abaixo. Inserir despois das informações uma imagem do Kanban do projeto.]
+Para essa Etapa a equipe irá utilizar da ferramenta GitHub Project para ter uma divisão efetiva dos papéis.
 - Backlog: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista. 
 - To Do: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando. 
 - Doing: Quando uma tarefa tiver sido iniciada, ela é movida para cá. 
 - Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
+
+**Etapa 1 (Sprint 1)**- *Análise do Problema e Especificação de Requisitos*
+
+***PLANEJAMENTO***: 
+
+Ao iniciarmos o desenvolvimento do projeto, primeiramente com a definição do grupo dia 10/08/2023, e em conversas através do Whatsapp, o grupo definiu a ideia do projeto e os dias e horários de encontros semanais  de acordo com a disponibilidade de cada integrante do grupo, os encontros foram realizados através da plataforma Teams e Google Meet.
+
+* Nesta Sprint foram realizadas e entregues:
+    * Documentação de Contexto
+    * Especificação do Projeto
+    * Apresentação do Projeto
+ 
+***EXECUÇÃO***:
+
+Com a ideia de projeto definida, a execução das entregas foram divididas entre os integrantes do grupo, e cada um contribuiu com a realização da Etapa, de forma que, fomos nos ajudando e dando ideias de projeto, o qual foi documentado, nos reunimos semanalmente e aprimorando o tema e ajustando os detalhes.
+
+***EVIDÊNCIAS***:
+
+
+
+
+
+
 
 > **Links Úteis**:
 > - [Project management, made simple](https://github.com/features/project-management/)
