@@ -33,8 +33,8 @@ Para essa Etapa a equipe irá utilizar da ferramenta GitHub Project para ter uma
 - Doing: Quando uma tarefa tiver sido iniciada, ela é movida para cá. 
 - Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
 
-**Etapa 1 (Sprint 1)**- *Análise do Problema e Especificação de Requisitos*
-   * Nesta Sprint foram realizadas e entregues:     
+**Etapa 1 (Sprint 1)**
+- Nesta Sprint foram realizadas e entregues:     
  Documentação de Contexto    
  Especificação do Projeto    
  Apresentação do Projeto
@@ -51,11 +51,69 @@ Com a ideia de projeto definida, a execução das entregas foram divididas entre
 
 **1.3 Evidências (ferramentas e comprovações)**:
 
+Imagem 1 - Criação da proposta do Projeto
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/blob/main/documentos/img/TRAIL.png)
 
+Imagem 2 - Apresentação do Projeto
+<div align="center">
+  
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/blob/main/documentos/img/Apresenta%C3%A7%C3%A3o%20Trail.png).
+  <div/>
 
+<br>
+  
+<div align="Left">
+Imagem 3 - Grupo do WhatsApp 
+<div/>
+<br>
 
+<div align="center">  
+  
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/blob/main/documentos/img/Reuni%C3%B5es%20Teams.png)
 
+<div/>
+
+<br>
+
+<div align="Left">
+  
+Imagem 4 - Reuniões Google Meet
+
+<div/>
+
+ <div align="Center">
+   
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/blob/main/documentos/img/Reuni%C3%A3o%20Google%20Meet.png)
+
+<div/>
+  
+<br>
+ <div align="Left">
+   
+**Etapa 2 (Sprint 2)**
+- Nesta Sprint foram realizadas e entregues:
+     
+Documentação de Contexto
+
+Especificação do Projeto
+
+Metodologia
+
+Projeto de Interface
+
+**2.1 Planejamento**
+Em planejamento criamos um documento onde descrevemos todas as características da aplicação proposta (TRAIL), tal como a escolha das metodologias, ferramentas e atribuição de cada integrante do grupo. 
+
+**2.2 Andamento**
+Para o gerenciamento do projeto escolhemos a metodologia ágile e mais precisamente a utilização do SCRUM, através do GitHub. A ferramenta escolhida para o desenvolvimento dos fluxos de usuários e wireframe foi o Figma, devido o fácil acesso e manuseio.
+
+O grupo foi divido com William sendo o Scrum Master e  Raissa a Project Owner. Os estudos de Layout foram desenvolvidos por Pedro, Raissa e William. E a documentação foi elaborada por Bianca e Wagner. 
+
+Em média três reuniões por semana eram organizadas utilizando o Google Meets ou o Teams, como também atendimentos semanais com o Profº Marcos.
+
+Referências atualizadas
+<div/>
 
 
 > **Links Úteis**:
