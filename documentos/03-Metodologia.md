@@ -163,7 +163,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 | Projeto de Interface                | Figma                              | https://www.figma.com/file/AfypO9Snl7rYyQLkHmGOFe/TRAIL--Wireframes?type=design&node-id=0-1&mode=design                           |
 | Gerenciamento do Projeto            | GitHub Projects                    | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/648/views/1                          |
 | Fluxo de Usuários                   | Figma                       | https://www.figma.com/file/QkIPJuwgZ3587ed7NEYLd7/TRAIL---User-Flow?type=design&node-id=0-1&mode=design                          |
-| Hospedagem                          | GitHub Pages                       | http://....                            |
+| Hospedagem                          | GitHub Pages                       |https://icei-puc-minas-pmv-ads.github.io/TRAIL-Ferramenta-de-check-in--T6--Grupo-01                           |
 
 
 ### Estratégia de Organização de Codificação 
