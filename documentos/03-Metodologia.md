@@ -112,6 +112,16 @@ O grupo foi divido com William sendo o Scrum Master e  Raissa a Project Owner. O
 
 Em média três reuniões por semana eram organizadas utilizando o Google Meets ou o Teams, como também atendimentos semanais com o Profº Marcos.
 
+**2.3 Evidências (ferramentas e comprovações)**:
+
+Imagem 1 - Kanban
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/blob/main/documentos/img/Kanban.png)
+
+Imagem 2 - Reunião Sprint 2 no Google Meet
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/blob/main/documentos/img/Reuni%C3%A3o%20Sprint%202.jpeg)
+
 Referências atualizadas
 <div/>
 
@@ -148,10 +158,11 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
 |-------------------------------------|------------------------------------|----------------------------------------|
-| Repositório de código fonte         | GitHub                             | http://....                            |
-| Documentos do projeto               | GitHub                             | http://....                            |
-| Projeto de Interface                | Figma                              | http://....                            |
-| Gerenciamento do Projeto            | GitHub Projects                    | http://....                            |
+| Repositório de código fonte         | GitHub                             | https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/tree/main                            |
+| Documentos do projeto               | GitHub                             | https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/tree/main/documentos                           |
+| Projeto de Interface                | Figma                              | https://www.figma.com/file/AfypO9Snl7rYyQLkHmGOFe/TRAIL--Wireframes?type=design&node-id=0-1&mode=design                           |
+| Gerenciamento do Projeto            | GitHub Projects                    | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/648/views/1                          |
+| Fluxo de Usuários                   | Figma                       | https://www.figma.com/file/QkIPJuwgZ3587ed7NEYLd7/TRAIL---User-Flow?type=design&node-id=0-1&mode=design                          |
 | Hospedagem                          | GitHub Pages                       | http://....                            |
 
 
