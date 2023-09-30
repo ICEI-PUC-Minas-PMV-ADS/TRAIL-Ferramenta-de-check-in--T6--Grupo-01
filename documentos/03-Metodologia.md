@@ -34,21 +34,23 @@ Para essa Etapa a equipe irá utilizar da ferramenta GitHub Project para ter uma
 - Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
 
 **Etapa 1 (Sprint 1)**- *Análise do Problema e Especificação de Requisitos*
+   * Nesta Sprint foram realizadas e entregues:     
+ Documentação de Contexto    
+ Especificação do Projeto    
+ Apresentação do Projeto
+    
+**1.1 Planejamento**: 
 
-***PLANEJAMENTO***: 
+Ao iniciarmos o desenvolvimento do projeto, primeiramente com a definição do grupo dia 10/08/2023, e em conversas através do Whatsapp, o grupo definiu a ideia do projeto e os dias e horários de encontros semanais  de acordo com a disponibilidade de cada integrante do grupo, os encontros foram realizados através da plataforma Teams e Google Meet. 
 
-Ao iniciarmos o desenvolvimento do projeto, primeiramente com a definição do grupo dia 10/08/2023, e em conversas através do Whatsapp, o grupo definiu a ideia do projeto e os dias e horários de encontros semanais  de acordo com a disponibilidade de cada integrante do grupo, os encontros foram realizados através da plataforma Teams e Google Meet.
 
-* Nesta Sprint foram realizadas e entregues:
-    * Documentação de Contexto
-    * Especificação do Projeto
-    * Apresentação do Projeto
  
-***EXECUÇÃO***:
+**1.2 Execução**:
 
 Com a ideia de projeto definida, a execução das entregas foram divididas entre os integrantes do grupo, e cada um contribuiu com a realização da Etapa, de forma que, fomos nos ajudando e dando ideias de projeto, o qual foi documentado, nos reunimos semanalmente e aprimorando o tema e ajustando os detalhes.
 
-***EVIDÊNCIAS***:
+**1.3 Evidências (ferramentas e comprovações)**:
+
 
 
 
