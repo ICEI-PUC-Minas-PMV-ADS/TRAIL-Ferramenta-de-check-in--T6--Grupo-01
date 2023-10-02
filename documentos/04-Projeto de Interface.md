@@ -3,26 +3,50 @@
 
 ## User Flow
 
-Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de navegação do usuário na aplicação. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
+Imagem 1 - User Flow Visão Geral
+![1. User Flow - Visão geral ](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/blob/main/documentos/img/1%20VIS%C4%80O%20GERAL.png)
 
-[Adicione aqui o diagrama de fluxo de usuário da sua aplicação.] 
 
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
+Imagem 2 - Menu Turista
+![3. User Flow - Menu Turista  ](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/blob/main/documentos/img/2%20%20MENU%20TURISTA.png)
 
-## Protótipo
 
-Desenvolver um protótipo emerge como uma das maneiras mais ágeis e econômicas de validar uma ideia, conceito ou funcionalidade. Isso permite a interação, avaliação, modificação e aprovação das principais características de uma interface antes de entrar na fase de desenvolvimento. Leia o artigo [Protótipos: baixa, média ou alta fidelidade?](https://medium.com/ladies-that-ux-br/prot%C3%B3tipos-baixa-m%C3%A9dia-ou-alta-fidelidade-71d897559135).
+Imagem 3 - Nossa História (Perfil Turista)
+![4. User Flow - Nossa História ](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/blob/main/documentos/img/3%20NOSSA%20HIST%C3%93RIA.png)
+
+
+Imagem 4 - Meu Perfil
+![5. User Flow - Meu Perfil](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/blob/main/documentos/img/4%20MEU%20PERFIL.png)
+
+
+Imagem 5 - Roteiros
+![6. User Flow - Roteiros](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/blob/main/documentos/img/5%20ROTEIROS.png)
+
+
+Imagem 6 - Menu Gestor 
+![7. User Flow - Menu Gestor](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/blob/main/documentos/img/6%20%20MENU%20GESTOR.png)
+
+
+Imagem 7 - Nossa História (Perfil Gestor)
+![7. User Flow - Nossa História](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/blob/main/documentos/img/7%20NOSSA%20HIST%C3%93RIA.png)
+
+
+Imagem 8 - Administrar Roteiros 
+![8. User Flow - Administrar Roteiros](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/blob/main/documentos/img/8%20ADMINISTRAR%20ROTEIROS.png)
+
+
+Imagem 9 - Criar Roteiros 
+![9. User Flow - Criar Roteiros](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/blob/main/documentos/img/9%20CRIAR%20ROTEIROS.png)
+
 
 ### Protótipo de baixa fidelidade
+Imagem 1 - Criar Roteiros 
+![1. Tela Inicial ](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/blob/main/documentos/img/1%20MAIN.png)
 
-Protótipos de baixa fidelidade apresentam de forma simplificada o design da interface e o relacionamento entre suas páginas, permitindo evolução da proposta da solução. Neste projeto, os utilizaremos para apoiar a validação dos requisitos e efetuar mudanças dos mesmos, caso seja necessário, para menor impacto na codificação da aplicação.
 
-[Elabore as principais interfaces gráficas da aplicação de modo que os requisitos funcionais sejam contemplados nas telas propostas.]
+Imagem 2 - Criar Roteiros 
+![1. Tela Inicial ](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/blob/main/documentos/img/1%20MAIN.png)
 
-[Adicione aqui as telas da sua aplicação com seus devidos títulos.] 
  
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
