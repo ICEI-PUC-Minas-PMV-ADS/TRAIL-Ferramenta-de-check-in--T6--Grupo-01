@@ -22,8 +22,8 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
 
 - Scrum Master: Willian Barbosa de Andrade
 - Product Owner: Raissa Leite Magalhães Saunier
-- Equipe de Desenvolvimento: Bianca Ribeiro Conceição, Luis Gustavo da Silva Ramos, Pedro Freire Soares, Raissa Leite Magalhães Saunier, Wagner Godoy da Costa e William Barbosa de Andrade
-- Equipe de Design: Bianca Ribeiro Conceição, Luis Gustavo da Silva Ramos, Pedro Freire Soares, Raissa Leite Magalhães Saunier, Wagner Godoy da Costa e William Barbosa de Andrade
+- Equipe de Desenvolvimento: Bianca Ribeiro Conceição, Pedro Freire Soares, Raissa Leite Magalhães Saunier, Wagner Godoy da Costa e William Barbosa de Andrade
+- Equipe de Design: Bianca Ribeiro Conceição, Pedro Freire Soares, Raissa Leite Magalhães Saunier, Wagner Godoy da Costa e William Barbosa de Andrade
 
 
 ### Processo
@@ -122,15 +122,14 @@ Imagem 2 - Reunião Sprint 2 no Google Meet
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/blob/main/documentos/img/Reuni%C3%A3o%20Sprint%202.jpeg)
 
-Referências atualizadas
-<div/>
+Imagem 3 - Wireframe tela de Login
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/blob/main/documentos/img/2%20LOGIN%20TURISTA.png)
 
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+Imagem 4 - User Flow visão geral 
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/blob/main/documentos/img/1%20VIS%C4%80O%20GERAL.png)
+
 
 
 ### Etiquetas
@@ -168,4 +167,4 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 
 ### Estratégia de Organização de Codificação 
 
-Todos os artefatos relacionados a implementação e visualização dos conteúdos do projeto do site deverão ser inseridos na pasta [codigo-fonte](http://https://github.com/ICEI-PUC-Minas-PMV-ADS/WebApplicationProject-Template-v2/tree/main/codigo-fonte). Consulte também a nossa sugestão referente a estratégia de organização de codificação a ser adotada pela equipe de desenvolvimento do projeto.
+Todos os artefatos relacionados a implementação e visualização dos conteúdos do projeto do site deverão ser inseridos na pasta [codigo-fonte]
