@@ -40,12 +40,13 @@ Para essa Etapa a equipe irá utilizar da ferramenta GitHub Project para ter uma
  Apresentação do Projeto
     
 **1.1 Planejamento**: 
-
-Ao iniciarmos o desenvolvimento do projeto, primeiramente com a definição do grupo dia 10/08/2023, e em conversas através do Whatsapp, o grupo definiu a ideia do projeto e os dias e horários de encontros semanais  de acordo com a disponibilidade de cada integrante do grupo, os encontros foram realizados através da plataforma Teams e Google Meet. 
-
-
+- Escolha de tema
+- Definicão de horários de reunião
+- Divisão de tarefas
+- Preparação de documentação em Word e PowerPoint
  
 **1.2 Execução**:
+Ao iniciarmos o desenvolvimento do projeto, primeiramente com a definição do grupo dia 10/08/2023, e em conversas através do Whatsapp, o grupo definiu a ideia do projeto e os dias e horários de encontros semanais  de acordo com a disponibilidade de cada integrante do grupo, os encontros foram realizados através da plataforma Teams e Google Meet.
 
 Com a ideia de projeto definida, a execução das entregas foram divididas entre os integrantes do grupo, e cada um contribuiu com a realização da Etapa, de forma que, fomos nos ajudando e dando ideias de projeto, o qual foi documentado, nos reunimos semanalmente e aprimorando o tema e ajustando os detalhes.
 
@@ -93,22 +94,34 @@ Imagem 4 - Reuniões Google Meet
    
 **Etapa 2 (Sprint 2)**
 - Nesta Sprint foram realizadas e entregues:
-     
+    
 Documentação de Contexto
-
 Especificação do Projeto
-
 Metodologia
-
 Projeto de Interface
 
 **2.1 Planejamento**
-Em planejamento criamos um documento onde descrevemos todas as características da aplicação proposta (TRAIL), tal como a escolha das metodologias, ferramentas e atribuição de cada integrante do grupo. 
+- Definir responsabilidades de cada um dos integrantes
+- Definir objetivamente o problema a ser resolvido
+- Divisão de papéis
+- Documentação de Contexto:
+    Público Alvo
+    Aplicações Similares
+    Justificativa
+    Objetivos
+    Problema
+    Introdução
+- Criar Wireframes:
+    Wireframe página inicial
+    Wireframe página Login Turista/Gestor
+- Criar User Flow 
 
 **2.2 Andamento**
-Para o gerenciamento do projeto escolhemos a metodologia ágile e mais precisamente a utilização do SCRUM, através do GitHub. A ferramenta escolhida para o desenvolvimento dos fluxos de usuários e wireframe foi o Figma, devido o fácil acesso e manuseio.
+Criamos um documento onde descrevemos todas as características da aplicação proposta (TRAIL), tal como a escolha das metodologias, ferramentas e atribuição de cada integrante do grupo.
 
-O grupo foi divido com William sendo o Scrum Master e  Raissa a Project Owner. Os estudos de Layout foram desenvolvidos por Pedro, Raissa e William. E a documentação foi elaborada por Bianca e Wagner. 
+Para o gerenciamento do projeto escolhemos a metodologia ágil e mais precisamente a utilização do SCRUM, através do GitHub. A ferramenta escolhida para o desenvolvimento dos fluxos de usuários e wireframe foi o Figma, devido o fácil acesso e manuseio.
+
+O grupo foi divido com William sendo o Scrum Master e Raissa a Project Owner. Os estudos de Layout foram desenvolvidos por Pedro, Raissa e William. E a documentação foi elaborada por Bianca e Wagner. 
 
 Em média três reuniões por semana eram organizadas utilizando o Google Meets ou o Teams, como também atendimentos semanais com o Profº Marcos.
 
@@ -130,6 +143,24 @@ Imagem 4 - User Flow visão geral
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/blob/main/documentos/img/1%20VIS%C4%80O%20GERAL.png)
 
+**Etapa 3 (Sprint 3)**
+- Nesta Sprint foram realizadas e entregues:
+    
+Documentação de Contexto
+Especificação do Projeto
+Metodologia
+Projeto de Interface
+Template padrão da aplicação
+
+**3.1 Planejamento**
+- Divisão de papéis
+- Escolha de Design e Layout
+- Template em HTML e CSS
+  
+**3.2 Andamento**
+
+
+**3.3 Evidências (ferramentas e comprovações)**:
 
 
 ### Etiquetas
