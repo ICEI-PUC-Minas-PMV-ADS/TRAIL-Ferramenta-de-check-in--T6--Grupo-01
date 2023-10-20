@@ -12,7 +12,6 @@ Trail é uma prosposta de aplicação web que apresenta ao turista os melhores p
 ## Integrantes
 
 * Bianca Ribeiro Conceição
-* Luis Gustavo da Silva Ramos
 * Pedro Freire Soares
 * Raissa Leite Magalhães Saunier
 * Wagner Godoy da Costa
