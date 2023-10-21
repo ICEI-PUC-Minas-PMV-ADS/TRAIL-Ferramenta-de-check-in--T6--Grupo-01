@@ -23,38 +23,58 @@
             <li><a href="#">Entrar</a></li> 
         </ul>
     </nav>
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    <div class="container">
-        <div class="login-box">
-            <h1>Login</h1>
-            <form id="login-form">
-                <div class="input-group">
-                    <label for="username">Nome de usuário:</label>
-                    <input type="text" id="username" name="username" required>
-                </div>
-                <div class="input-group">
-                    <label for="password">Senha:</label>
-                    <input type="password" id="password" name="password" required>
-                </div>
-                <button type="submit">Entrar</button>
-            </form>
-            <div class="resendpassword">
-                <h3>Recuperar senha</h3>
+    <div class="background"></div>
+    <div class="centering">
+        <form class="my-form">
+            <div class="login-welcome-row">
+               
+                <h1>Login</h1>
             </div>
-            <div class="cadastrar">
-                <h3>Cadastre-se</h3>
+            <div class="text-field">
+                <label for="email">Email:</label>
+                <input
+                    aria-label="Email"
+                    type="email"
+                    id="email"
+                    name="email"
+                    placeholder="Seu Email"
+                    required
+                >
+                <img
+                    alt="Icone email"
+                    title="Icone email"
+                    src="./assets/mail.svg"
+                >
             </div>
-        </div>
+            <div class="text-field">
+                <label for="password">senha:</label>
+                <input
+                    id="password"
+                    type="password"
+                    aria-label="Password"
+                    name="password"
+                    placeholder="Sua senha"
+                    title="Minimum 6 characters at least 1 Alphabet and 1 Number"
+                    pattern="^(?=.*[A-Za-z])(?=.*\d)[A-Za-z\d]{6,}$"
+                    required
+                >
+                <img
+                    alt="Icone senha"
+                    title="Icone senha"
+                    src="password.png"
+                >
+            </div>
+            <input type="submit" class="my-form__button" value="Login" >
+            <div class="my-form__actions">
+                <div class="my-form__row">
+                    <span>Esqueceu a senha?</span>
+                    <a href="#" title="Reset Password">Recuperar senha</a>
+                </div>
+                <div class="my-form__signup">
+                    <a href="#" title="Create Account">Criar conta</a>
+                </div>
+            </div>
+        </form>
     </div>
-
-</body>
+    </body>
 </html>
