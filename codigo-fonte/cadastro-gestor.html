@@ -1,74 +1,42 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cadastro Gestor</title>
+    <link rel="stylesheet" href="/styleGestor.css">
+    <title>Cadastre-se</title>
+    
 </head>
 <body>
-    <h1>PRIMEIRO ACESSO</h1>
-        
-    <form class="form-register" id="gestor" method="post">
-        <fieldset>
-           <p>Preencher o formulário</p>
-           
-           <span>
-               <label for="nome"></label>
-               <input type="text"
-                      id="nome"
-                      placeholder="Nome" required />
-           
-               <label for="sobrenome"></label>
-               <input type="text" id="sobrenome" placeholder="Último nome" required />
-           </span>
+    <header>
+    <h1 class="test"> Primeiro acesso
 
-           <div>
-               <label type="email"></label>
-               <input type="email" id="email" placeholder="Email" required />
-           </div>
-           
-           <div>
-               <label for="senha"></label>
-               <input id="password"
-               type="password"
-               aria-label="Password"
-               name="password"
-               placeholder="Criar senha"
-               title="Minimum 6 characters at least 1 Alphabet and 1 Number"
-               pattern="^(?=.*[A-Za-z])(?=.*\d)[A-Za-z\d]{6,}$" required />
-           </div>
+    </h1>
 
-           <div>
-               <label for="senha"></label>
-               <input id="password"
-               type="password"
-               aria-label="Password"
-               name="password"
-               placeholder="Confirmar senha"
-               title="Minimum 6 characters at least 1 Alphabet and 1 Number"
-               pattern="^(?=.*[A-Za-z])(?=.*\d)[A-Za-z\d]{6,}$" required />
-           </div>
+    </header>
+    <main class="Cadastre-se">
+               <section class="Cadastro">
+                 <h2 class="subtitulo"> <strong>Cadastre-se</strong></h2>
+                <input class="caixa" type="text" placeholder="Primeiro nome" >
+                <input class="caixa" type="text" placeholder="Sobrenome">
+                <br><br>            
+                <input class="caixa" type="text" placeholder="E-mail"> 
+                <br><br>              
+                <input class="caixa" type="text" placeholder="Digite sua senha"> 
+                <br><br>              
+                <input class="caixa" type="text" placeholder="Confirme sua senha"> 
+                <br><br>             
+                <input class="caixa" type="text" placeholder="Endereço"> 
+                <br><br>              
+                <input class="caixa" type="text" placeholder="Cidade"> 
+                <input class="caixa" type="text" placeholder="Estado"> 
+                <br><br>              
+                <input class="caixa" type="text" placeholder="Cep">             
+                <br><br>
+                <button class="botao">Confirmar</button>
+        </section> 
+    </main>
+          
 
-           <div>
-               <label for="endereço"></label>
-               <input type="text" id="endereço" placeholder="Endereço" required />
-           </div>
-            
-           <span>
-               <label for="cidade"></label>
-               <input type="text" id="cidade" placeholder="Cidade" Required />
-
-               <label for="estado"></label>
-               <input type="text" id="estado" placeholder="Estado" required />
-           </span>
-
-           <div>
-            <label for="cep"></label>
-            <input type="text" id="cep" placeholder="Cep" Required />
-           </div>
-
-           <button type="submit">Confirmar</button>
-        </fieldset>  
-    </form>      
 </body>
 </html>
