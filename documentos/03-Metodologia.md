@@ -163,6 +163,7 @@ Nos reunimos durante a semana para definição dos papeis a serem feitos no deco
 **3.3 Evidências (ferramentas e comprovações)**:
 
 Imagem 1 - Reunião para Definição do Design
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/blob/main/documentos/img/reuni%C3%A3o%20defini%C3%A7%C3%A3o%20design.jpg)
 
 
 
