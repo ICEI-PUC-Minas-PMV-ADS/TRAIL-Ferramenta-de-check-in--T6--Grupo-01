@@ -1,4 +1,30 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Quicksand:wght@500&display=swap");
+* {
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    background-color: var(--background);
+    font-family: Quick sand;
+}
+body{
+background-image: url(assets/pin\ mapa.jpg);
+background-size: cover;
+width:100vw;
+height:100vh;
+overflow:hidden;
+}
+
+
+body::before{
+    content: "";
+    background-color:#ff5a01e2;
+    position:absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
 
 :root {
     --primary: #ff5a01 ;
@@ -6,17 +32,9 @@
     --secondary: #0097b2;
     --secondary-hover: #8f8e8e;
     --aura: #0097b2;
-    --background: #f2efef;
     font-family: 'Inter', sans-serif;
     font-family: 'Poppins', sans-serif;
     font-family: 'Quicksand', sans-serif;
-}
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    background-color: var(--background);
-    font-family: Quick sand;
 }
 
 h1 {
@@ -42,29 +60,19 @@ h1 {
     padding-left: 20px;
     text-decoration: none;
 }
-
-
-.background {
-    content: "";
-    position: absolute;
-    height: 100vh;
-    width: 100vw;
-    display: grid;
-    place-items: center;
-    background-color: #8f8e8e;
-    opacity: 0.5;
-    background-size: 100%;
-    background-repeat: no-repeat;
-    background-size: auto;
-
-}
-
 .centering {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
-    width: 100vw;
+    height: 50vh;
+    width: 23vw;
+    background-color: white;
+    position: absolute;
+    border-radius: 20px;
+    top: 50%;
+    left:75%;
+    transform: translate(-50%,-50%);
+    
 }
 .text-field input {
     color: var(--secondary);
