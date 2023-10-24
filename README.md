@@ -37,7 +37,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 
 # Hospedagem
 
-* [https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/edit/main/README.md](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/edit/main/README.md)
+* [https://icei-puc-minas-pmv-ads.github.io/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/codigo-fonte/index.html](https://icei-puc-minas-pmv-ads.github.io/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/codigo-fonte/index.html)
 
 # Código-Fonte
 
