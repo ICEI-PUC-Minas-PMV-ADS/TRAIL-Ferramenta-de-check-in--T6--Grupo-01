@@ -67,11 +67,14 @@ h1 {
     height: 50vh;
     width: 23vw;
     background-color: white;
-    position: absolute;
+    position:absolute;
     border-radius: 20px;
     top: 50%;
     left:75%;
     transform: translate(-50%,-50%);
+    width: 500px;
+    height: 500px;
+    
     
 }
 .text-field input {
