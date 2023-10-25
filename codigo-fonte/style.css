@@ -25,6 +25,26 @@ body::before{
     height: 100%;
 }
 
+.container{
+    position:fixed;
+    top: 25%;
+    left: 11%;
+    width: 92vh;
+    height: 30vh;
+    transform:scale(1.2) ;
+
+}
+
+#text-logo{
+    position: relative;
+    color: white;
+    margin-right: 15%;
+    left: 12%;
+    font-size: 20px;
+    
+    
+
+}
 
 :root {
     --primary: #ff5a01 ;
@@ -39,6 +59,7 @@ body::before{
 
 h1 {
     color: var(--secondary);
+    left: 70%;
 }
  nav {
     display: flex;
@@ -72,8 +93,8 @@ h1 {
     top: 50%;
     left:75%;
     transform: translate(-50%,-50%);
-    width: 500px;
-    height: 500px;
+    width: 450px;
+    height: 450px;
     
     
 }
