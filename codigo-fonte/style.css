@@ -26,8 +26,8 @@ body::before{
 }
 
 .container{
-    position:fixed;
-    top: 25%;
+    position:absolute;
+    top: 21%;
     left: 11%;
     width: 92vh;
     height: 30vh;
@@ -40,7 +40,7 @@ body::before{
     color: white;
     margin-right: 15%;
     left: 12%;
-    font-size: 20px;
+    font-size: 15px;
     
     
 
@@ -49,7 +49,7 @@ body::before{
 :root {
     --primary: #ff5a01 ;
     --primary-hover: #f8a274;                
-    --secondary: #0097b2;
+    --secondary: black;
     --secondary-hover: #8f8e8e;
     --aura: #0097b2;
     font-family: 'Inter', sans-serif;
@@ -58,24 +58,26 @@ body::before{
 }
 
 h1 {
-    color: var(--secondary);
+    font-size: 36px;
+    background: linear-gradient(to right, #ff5a01,#ffac0d);
+    -webkit-background-clip: text; 
+    color: transparent; 
     left: 70%;
+    
+    
+    
 }
  nav {
     display: flex;
     justify-content: space-around;
     font-family: 'Quicksand', sans-serif;
     justify-content: space-around;
-   
-
-
- }
+}
 .nav-links{
 
     list-style: none;
     display: flex;
-    
-    }
+}
 
 .nav-links>li {
     padding-left: 20px;
@@ -94,7 +96,8 @@ h1 {
     left:75%;
     transform: translate(-50%,-50%);
     width: 450px;
-    height: 450px;
+    height: 400px;
+    box-shadow: 0 0 5px 1px #ffac0d;
     
     
 }
@@ -102,24 +105,54 @@ h1 {
     color: var(--secondary);
     font-size: 16px;
     font-weight: 500;
-    max-width: 100%;
-    width: 100%;
-    border: 1px solid var(--secondary);
-    height: 50px;
+    max-width: 150%;
+    width: 140%;
+    border: 1px transparent;
+    height: 40px;
+    transform: translate(-14%,-14%);
     letter-spacing: .03rem;
     background-color: transparent;
     outline: none;
     transition: .25s;
-    border-radius: 8px;
+    border-radius: 60px;
     text-indent: 20px;
-    margin-top: 8px;
+    margin-top: 20px;
+    box-shadow: 0 0 5px 1px #888888;
+    
 }
+.button-radio{
+    color: rgb(102, 101, 101);
+    font-size:90%;
+    display: block;
+    position: relative;
+    cursor: pointer;
+    transform: translate(-15%,-25%);
 
+}
+#radio1:hover{
+    cursor:pointer;
+    
+
+}
 
 .my-form__button:hover {
-    background-color: var(--primary-hover);
+    background-color:#ff5a01;
+    border-color:#ff5a01;
+    color: white;
+    cursor: pointer;
 }
-
+.my-form__button {
+    position: relative;
+    border-radius: 5px;
+    max-height: 100%;
+    width: 45%;
+    height: 90%;
+    font-size:18px;
+    background-color: rgb(24, 160, 251);
+    border-color:  rgb(24, 160, 251) ;
+    transform:translate(60%,10%);
+    color: white;
+}
 .text-field {
     position: relative;
 }
@@ -130,12 +163,13 @@ h1 {
 
 .text-field img {
     position: absolute;
-    right: -2px;
+    right: -30px;
     bottom: -4px;
-    width: 30px;
-    height: 30px;
-    transform: translate(-50%,-50%);
+    width: 15px;
+    height: 15px;
+    transform: translate(-60%,-60%);
     transform-origin: center;
+    top: 60%;
 }
 
 .text-field input:focus {
@@ -173,26 +207,31 @@ h1 {
 }
 
 .my-form__actions a:hover {
-    color: #a7a2cb;               
+    color: #ff5a01;               
 }
 
 .my-form__row {
     display: flex;
-    justify-content: space-between;
+    justify-content:center;
 }
 
 .my-form__signup {
-    display: flex;
-    justify-content: center;
+    display:block;
+    transform: translate(80%,5%);
+    font-size: small;
+    
 }
 
 .my-form__signup a {
-    color: var(--primary);
+    display:block;
+    position: relative;
+    color: rgb(41, 40, 40);
     font-weight: 800;
     text-decoration: none;
-    font-size: 18px;
+    font-size: 15px;
+    top:60%
 }
 
 .my-form__signup a:hover {
-    color: var(--primary-hover);
+    color:#ff5a01;
 }

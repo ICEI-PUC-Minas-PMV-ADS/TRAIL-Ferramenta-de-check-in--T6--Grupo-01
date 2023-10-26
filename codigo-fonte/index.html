@@ -33,11 +33,12 @@
 
     <div class="centering">
         <form class="my-form">
-            <div class="login">
-               <h1>Comece sua trilha aqui</h1>
+            <div class="login"><br><br>
+               <h1>Comece sua Trilha</h1>
             </div>
+            <br>
             <div class="text-field">
-                <label for="email">Email:</label>
+                
                 <input
                     aria-label="Email"
                     type="email"
@@ -53,7 +54,7 @@
                 >
             </div>
             <div class="text-field">
-                <label for="password">Senha:</label>
+                
                 <input
                     id="password"
                     type="password"
@@ -70,14 +71,21 @@
                     src="assets/password.png"
                 >
             </div>
-            <input type="submit" class="my-form__button" value="Login" >
+            <br>
+            <div class="button-radio">
+                <input id="radio1" type="radio">
+                <label for="checkbox1">Mantenha-me logado</label>
+            </div>
+            <br>
+            <input type="submit" class="my-form__button" value="Entrar" >
             <div class="my-form__actions">
                 <div class="my-form__row">
                     <span>Esqueceu a senha?</span>
                     <a href="#" title="Reset Password">Recuperar senha</a>
                 </div>
                 <div class="my-form__signup">
-                    <a href="#" title="Create Account">Criar conta</a>
+                    <span>Ainda não tem conta?</span>
+                    <a href="#" title="Create Account">Cadastre-se</a>
                 </div>
             </div>
         </form>
