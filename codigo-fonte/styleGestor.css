@@ -78,11 +78,18 @@
 
 }
 
-.test {
+.texto {
+       position: relative;
+    display: block;
     text-align: center;
     padding-top: 160px;
     font-family: 'Quicksand', sans-serif;
     font-size: 40px;
     font-weight: medium;
+    margin: 0;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 50%;
     
 }
