@@ -105,7 +105,8 @@ Imagem 15 - GuideLine
 
 
 
-Imagem 15 - Editar Roteiro (Perfil Gestor) 
+Imagem 16 - Editar Roteiro (Perfil Gestor) 
 ![15. Editar Roteiro](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/blob/main/documentos/img/20%20CUSTOMIZAR%20ROTEIROS.png)
+
 
  
