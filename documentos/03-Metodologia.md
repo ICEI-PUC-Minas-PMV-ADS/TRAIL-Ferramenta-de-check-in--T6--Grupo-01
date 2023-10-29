@@ -158,7 +158,7 @@ Template padrão da aplicação
 - Template em HTML e CSS
   
 **3.2 Andamento**
-Nos reunimos durante a semana para definição dos papeis a serem feitos no decorrer dessa etapa, Pedro e Bianca com a parte de Design, e os responsáveis pelo desenvolvimento Raissa, Wagner e William, embora todos tenham opinado sobre o template da aplicação.
+Nos reunimos durante a semana para definição dos papeis a serem feitos no decorrer dessa etapa, Pedro e Bianca com a parte de Design, e os responsáveis pelo desenvolvimento Raissa, Wagner e William, embora todos tenham contribuído com o template da aplicação.
 
 **3.3 Evidências (ferramentas e comprovações)**:
 

@@ -1,25 +1,24 @@
-# Título do Projeto
+# Trail - Ferramenta de Check-in
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Desenvolvimento Web Front-End`
 
-`SEMESTRE`
+`1º Semestre`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
+O projeto desenvolvido visa criar uma aplicação web que registre as visitas a pontos turísticos.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Bianca Ribeiro Conceição
+* Pedro Freire Soares
+* Raissa Leite Magalhães Saunier
+* Wagner Godoy da Costa 
+* Willian Barbosa de Andrade
 
 ## Orientador
 
-* Nome completo do professor
+* Marcos André Silveira Kutova
 
 # Documentação
 
