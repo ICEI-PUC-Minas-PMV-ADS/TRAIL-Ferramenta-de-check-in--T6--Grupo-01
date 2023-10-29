@@ -107,6 +107,14 @@ h1 {
     cursor:pointer;
 }
 
+.reset {
+    right: 40%;
+   position: absolute;
+   right: 100px;
+   bottom: 128px;
+
+}
+
 .my-form__button:hover {
     background-color:#ff5a01;
     border-color:#ff5a01;
@@ -185,11 +193,6 @@ h1 {
 
 .my-form__actions a:hover {
     color: #ff5a01;               
-}
-
-.my-form__row {
-    display: inline;
-    text-align:center;
 }
 
 .my-form__signup {
