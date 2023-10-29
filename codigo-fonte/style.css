@@ -176,9 +176,11 @@ h1 {
 }
 
 .my-form__actions a {
-    color: var(--secondary);
+    position: relative;
+    color: rgb(102, 101, 101);
     font-weight: 550;
     text-decoration:none;
+    font-size: small;
 }
 
 .my-form__actions a:hover {
@@ -192,9 +194,33 @@ h1 {
 
 .my-form__signup {
     display:block;
-    transform: translate(80%,5%);
+    transform: translate(77%,10%);
     font-size: small;
-    
+    }
+.my-form__signup span{
+    display: inline-block;
+    position:relative;
+    color: #ff5a01;
+    transform:translate(7%,-25%) ;
+
+}
+.my-form__signup input{
+    position: relative;
+    display:inline;
+    font-size:15px;
+    transform: translate(0%,-2%);
+    border-radius: 5px;
+    max-width: 100%;
+    width: 22%;
+    color: white;
+    background-color:  rgb(102, 101, 101); 
+    border:rgb(102, 101, 101);
+    cursor: pointer;
+}
+.my-form__signup input:hover{
+    background: linear-gradient(to right, #ff5a01,#ffac0d);
+    -webkit-background-clip: text; 
+    color:transparent; 
 }
 
 .my-form__signup a {
@@ -210,3 +236,4 @@ h1 {
 .my-form__signup a:hover {
     color:#ff5a01;
 }
+
