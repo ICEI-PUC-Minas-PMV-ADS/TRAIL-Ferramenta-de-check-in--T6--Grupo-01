@@ -31,7 +31,6 @@ body::before{
     width: 92vh;
     height: 30vh;
     transform:scale(1.2) ;
-
 }
 
 #text-logo{
@@ -60,23 +59,7 @@ h1 {
     color: transparent; 
     left: 70%; 
 }
- nav {
-    display: flex;
-    justify-content: space-around;
-    font-family: 'Quicksand', sans-serif;
-    justify-content: space-around;
-}
-.nav-links{
-
-    list-style: none;
-    display: flex;
-}
-
-.nav-links>li {
-    padding-left: 20px;
-    text-decoration: none;
-}
-.centering {
+.centering{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -195,6 +178,7 @@ h1 {
 .my-form__actions a {
     color: var(--secondary);
     font-weight: 550;
+    text-decoration:none;
 }
 
 .my-form__actions a:hover {
