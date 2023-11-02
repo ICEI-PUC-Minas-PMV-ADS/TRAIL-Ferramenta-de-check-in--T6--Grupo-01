@@ -6,6 +6,7 @@
     background-color: var(--background);
     
 }
+
 body{
 background-image: url(assets/pin\ mapa.jpg);
 background-size: cover;
@@ -29,16 +30,21 @@ body::before{
     top: 19%;
     left: 9%;
     width: 92vh;
-    height: 30vh;
     transform:scale(1.1) ;
+    
 }
-
+.logotrail{
+    position:relative;
+    width: 90vh;
+    left: -3%;
+}
 #text-logo{
     position: relative;
     color: white;
     margin-right: 15%;
     left: 12%;
     font-size: 15px;
+    text-align: justify;
 }
 
 :root {
@@ -137,7 +143,6 @@ h1 {
     border-color:  rgb(24, 160, 251) ;
     transform:translate(60%,10%);
     color: white;
-   
 }
 .text-field {
     position: relative;
@@ -208,40 +213,26 @@ h1 {
 .my-form__signup span{
     display: inline block;
     position:relative;
-    color:#ff5a01;
-    transform:translate(-10%,-50%) ;
-    right: 5px;
+    color:#888888;
+    transform:translate(-1%,-100%) ;
+    right: 152px;
 
 }
-.my-form__signup input{
-    position: relative;
-    display:inline;
-    font-size:15px;
-    transform: translate(0%,-1%);
-    border-radius: 5px;
-    max-width: 100%;
-    width: 40%;
-    color: black;
-    background-color:  rgb(150, 148, 148); 
-    border:rgb(102, 101, 101);
-    cursor: pointer;
-}
-.my-form__signup input:hover{
-    background:#ff5a01;
-    color:white; 
-}
-
+   
 .my-form__signup a {
-    display:block;
+    display:inline;
     position: relative;
-    color: rgb(41, 40, 40);
+    color: #ff5a01;
     font-weight: 800;
     text-decoration: none;
     font-size: 15px;
-    top:60%
+    top:60%;
+    transform: translate(-1%,-100%);
+    right: 124px;
+}
+.my-form__signup a:hover{
+    color: #ffac0d;
 }
 
-.my-form__signup a:hover {
-    color:#ff5a01;
-}
+
 
