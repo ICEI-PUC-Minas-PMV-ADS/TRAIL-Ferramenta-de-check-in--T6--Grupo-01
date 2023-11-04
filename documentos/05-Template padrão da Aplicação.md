@@ -19,7 +19,7 @@ Todas as telas possuem um padrão de layout seguindo o guia de estilo criado por
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/blob/main/documentos/img/paletadecores-novo2.png)
 
-4. Gradiente
+3. Gradiente
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/blob/main/documentos/img/Cores-Gradiente.png)
 
 
