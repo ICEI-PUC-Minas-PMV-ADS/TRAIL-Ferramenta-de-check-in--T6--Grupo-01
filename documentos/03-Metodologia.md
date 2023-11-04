@@ -160,11 +160,29 @@ Template padrão da aplicação
 **3.2 Andamento**
 Nos reunimos durante a semana para definição dos papeis a serem feitos no decorrer dessa etapa, Pedro e Bianca com a parte de Design, e os responsáveis pelo desenvolvimento Raissa, Wagner e William, embora todos tenham contribuído com o template da aplicação.
 
+Optamos por alterar o acesso para apenas um tipo de usuário, no caso o turista , sendo excluído o de gestor em um primero momento.
+
+Também alteramos algumas cores que já haviam sido decididas em um guia de estilo conforme o avanço da produção das interfaces.
+
 **3.3 Evidências (ferramentas e comprovações)**:
 
 Imagem 1 - Reunião para Definição do Design
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/blob/main/documentos/img/reuni%C3%A3o%20defini%C3%A7%C3%A3o%20design.jpg)
 
+Imagem 2.1 - Alteração na paleta de cores 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/blob/main/documentos/img/paletadecores-novo1.png)
+
+Imagem 2.2 - Alteração na paleta de cores
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/blob/main/documentos/img/paletadecores-novo2.png)
+
+Imagem 3 - Página inicial alterada(login)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/blob/main/documentos/img/Template-PaginaInicial.png)
+
+Imagem 4 - Página de cadastro alterada
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/blob/main/documentos/img/Template-PaginaCadastro.png)
+
+Imagem 5 - Kanban
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/blob/main/documentos/img/Kanban-sprint3.png)
 
 
 ### Etiquetas
