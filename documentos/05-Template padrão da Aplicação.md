@@ -14,6 +14,7 @@ Todas as telas possuem um padrão de layout seguindo o guia de estilo criado por
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/blob/main/documentos/img/Tipografia-Poppins.png)
 
 2. Cores
+   
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/blob/main/documentos/img/paletadecores-novo1.png)
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/blob/main/documentos/img/paletadecores-novo2.png)
