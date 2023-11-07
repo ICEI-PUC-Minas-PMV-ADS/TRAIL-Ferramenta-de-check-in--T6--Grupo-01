@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Quicksand:wght@500&display=swap");
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(assets/indicando\ no\ mapa.jpg);
+    background-size: cover;
+    width:100vw;
+    height:100vh;
+    overflow:hidden;
+}
+body::before{
+    content: "";
+    background-image: /*Não estou conseguindo colocar gradiente como na imagem do figma*/
+    position:absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.logo{
+    width: 150px;
+    display: flex;
+    position: relative;
+    left: 50%;
+    
+}
+header, nav{
+    background-color:transparent;
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-start;
+    padding: 20px 20px;
+    
+}
+nav a{
+    position: relative;
+    display: inline;
+    color: white;
+    text-decoration: none;
+    margin:10px;
+    left: 60%;
+    font-size: 16px;
+}
+nav a:hover{
+    text-decoration:underline white;
+}
+.login{
+    left: 80%;
+}
+.button-perfil button{
+    background-color: transparent;
+    border-radius:30px;
+    border-color:white;
+    border-width: 5px;
+}
+main{
+    display: flex;
+    color: white;
+    justify-content: center;
+    transform: translate(-30%,130%);
+    
+}
+.textI{
+    font-size:xx-large; /*arrumar essa parte*/
+    
+}
+.textII{
+    font-size: x-large; /*essa também*/
+}
