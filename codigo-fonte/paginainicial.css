@@ -1,7 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Quicksand:wght@500&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Give+You+Glory&display=swap');
+  
 *{
     margin: 0;
     padding: 0;
+    font-family: "poppins" sans-serif;
 }
 body{
     background-image: url(assets/indicando\ no\ mapa.jpg);
@@ -12,10 +15,11 @@ body{
 }
 body::before{
     content: "";
-    background-image: /*Não estou conseguindo colocar gradiente como na imagem do figma*/
+    background-image: linear-gradient(to bottom,#ff5a0151, rgba(213, 126, 92, 0.503));/*Não estou conseguindo colocar gradiente como na imagem do figma*/
     position:absolute;
+    filter: contrast(140%) brightness(105%);
     top: 0;
-    left: 0;
+    left:0;
     width: 100%;
     height: 100%;
 }
@@ -23,7 +27,7 @@ body::before{
     width: 150px;
     display: flex;
     position: relative;
-    left: 50%;
+    left: 70%;
     
 }
 header, nav{
@@ -39,33 +43,88 @@ nav a{
     display: inline;
     color: white;
     text-decoration: none;
-    margin:10px;
-    left: 60%;
-    font-size: 16px;
+    margin:25px;
+    left: -10%;
+    font-size: 17px;
 }
 nav a:hover{
-    text-decoration:underline white;
+    text-decoration:underline #ff5a01;
+
 }
-.login{
-    left: 80%;
+nav .login{
+    left: 1%;
+    font-size:17px;
 }
-.button-perfil button{
-    background-color: transparent;
-    border-radius:30px;
-    border-color:white;
-    border-width: 5px;
+
+.material-symbols-outlined{
+    display:flex;
+    background: transparent;
+    color:#ff5a01;
+    font-size:50px; 
+    text-decoration: none;
+    left:-35%;
+    margin-top:-14%;
+}
+.material-symbols-outlined:hover{
+    text-decoration: none;
+    color:black;
 }
 main{
     display: flex;
     color: white;
     justify-content: center;
-    transform: translate(-30%,130%);
+    transform: translate(1%,35%);    
+}
+
+section h1{
+    font-size:100px;
+    font-family:"poppins", sans-serif;
+    font-weight:900;
+    line-height: 1em;    
     
 }
-.textI{
-    font-size:xx-large; /*arrumar essa parte*/
+section h2{
+    font-size:100px;
+    font-family:"give you glory", sans-serif ;
+    font-weight:200;
+}
+
+@media (max-width:768px) {
+    main{
+        margin-top:-8%;
+        transform: translate(10%,40%);
+    }
+    section h1{
+        font-size: 70px;
+    }
+    section h2{
+        font-size:70px;
+        line-height: 1.3em;
+    }
+    .logo{
+        width: 100px;
+        left:5%;
+        top:2%;
+    }
+    header{
+        justify-content: space-between;
+    }
+    nav a{
+        position: relative;
+        display: inline;
+        color: white;
+        text-decoration: none;
+        margin:10px;
+        left: -10%;
+        font-size: 17px;
+        line-height: 0.5em; 
+    }
+    nav .login{
+        left: 22%;
+        font-size:17px;
+    }
+
     
-}
-.textII{
-    font-size: x-large; /*essa também*/
-}
+
+
+    
