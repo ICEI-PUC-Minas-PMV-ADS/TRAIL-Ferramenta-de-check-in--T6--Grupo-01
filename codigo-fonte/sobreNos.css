@@ -16,13 +16,17 @@ body{
 
 body::before{
     content: "";
-    background-image: linear-gradient(to bottom,#ff5a0151, rgba(213, 126, 92, 0.503));/*Não estou conseguindo colocar gradiente como na imagem do figma*/
+    background-image: linear-gradient(to bottom,#ff5a0151, rgba(213, 126, 92, 0.503));
     position:absolute;
     filter: contrast(140%) brightness(105%);
     top: 0;
     left:0;
     width: 100%;
     height: 100%;
+    z-index: -1;
+    background-size: cover;
+    background-repeat: no-repeat;
+
 }
 
 .logo{
@@ -55,15 +59,26 @@ nav a{
     font-size: 17px;
 }
 
-nav a:hover{
+.cabecalho a:hover{
     text-decoration:underline #ff5a01;
 
 }
 
-nav .login{
+nav .button-login{
     left: 1%;
     font-size:17px;
     font-weight: 400;
+    border: transparent;
+    padding: 8px 24px;
+    color: white;
+    background-color: transparent;
+    transition: background-color 0.8s;
+    border-radius: 20px;
+}
+.button-login:hover{
+border: 1px solid #0097B2;
+background-color: #0097B2;
+border-radius: 20px;
 }
 
 .material-symbols-outlined{
@@ -84,8 +99,8 @@ nav .login{
 main{
     display: flex;
     color: white;
-    justify-content: center;
-    transform: translate(1%,35%);    
+    flex-direction: column;
+       
 }
 
 section h2{
@@ -93,9 +108,10 @@ section h2{
     font-family:"poppins", sans-serif;
     font-weight:400;
     line-height: 6em;
-    display: flex;
     position: relative;
-    left: 5.5%;   
+    left: 10%;
+    top: 90px;
+   
 }
 
 section p{
@@ -105,5 +121,16 @@ section p{
     font-weight: 200;
     display: flex;
     position: relative;
-    left: 5.5%;
+    left: 6%;
+    margin-left: 80px;
+    max-width: 500px
 }
+/* article{
+
+    display: flex;
+    position: fixed;
+    left: 6%;
+    margin-left: 160px;
+     
+}*/
+

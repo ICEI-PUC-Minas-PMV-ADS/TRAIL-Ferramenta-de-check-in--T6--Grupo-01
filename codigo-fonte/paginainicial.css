@@ -36,6 +36,8 @@ header, nav{
     justify-content:space-between;
     align-items:flex-start;
     padding: 20px 20px;
+    font-family: "poppins";
+    font-weight: 100;
     
 }
 nav a{
@@ -46,15 +48,29 @@ nav a{
     margin:25px;
     left: -10%;
     font-size: 17px;
+    
 }
-nav a:hover{
+.cabecalho a:hover{
     text-decoration:underline #ff5a01;
 
 }
 nav .login{
     left: 1%;
     font-size:17px;
+    font-weight: 400;
+    border: transparent;
+    padding: 8px 24px;
+    color: white;
+    background-color: transparent;
+    transition: background-color 0.8s;
+    border-radius: 20px;
 }
+
+.login:hover{
+    border: 1px solid #0097B2;
+    background-color: #0097B2;
+    border-radius: 20px;
+    }
 
 .material-symbols-outlined{
     display:flex;
