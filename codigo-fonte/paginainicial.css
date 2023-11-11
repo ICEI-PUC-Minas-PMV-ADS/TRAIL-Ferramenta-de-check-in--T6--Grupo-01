@@ -72,8 +72,8 @@ nav .login{
 main{
     display: flex;
     color: white;
-    justify-content: center;
-    transform: translate(1%,35%);    
+    justify-content:;
+    transform: translate(8%,40%);    
 }
 
 section h1{
@@ -89,42 +89,3 @@ section h2{
     font-weight:200;
 }
 
-@media (max-width:768px) {
-    main{
-        margin-top:-8%;
-        transform: translate(10%,40%);
-    }
-    section h1{
-        font-size: 70px;
-    }
-    section h2{
-        font-size:70px;
-        line-height: 1.3em;
-    }
-    .logo{
-        width: 100px;
-        left:5%;
-        top:2%;
-    }
-    header{
-        justify-content: space-between;
-    }
-    nav a{
-        position: relative;
-        display: inline;
-        color: white;
-        text-decoration: none;
-        margin:10px;
-        left: -10%;
-        font-size: 17px;
-        line-height: 0.5em; 
-    }
-    nav .login{
-        left: 22%;
-        font-size:17px;
-    }
-
-    
-
-
-    
