@@ -8,7 +8,7 @@
     font-family: "poppins" sans-serif;
 }
 body{
-    background-image: url(assets/sozinha\ por\ do\ sol.jpg);
+    background-image: url(assets/meeting-594091_1280.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -31,8 +31,9 @@ body::before{
     z-index: -1;
     background-size: cover;
     background-repeat: no-repeat;
-
+    background-position: center;
 }
+
 
 .logo{
     width: 150px;
@@ -79,11 +80,13 @@ nav .button-login{
     background-color: transparent;
     transition: background-color 0.8s;
     border-radius: 20px;
+    outline: none;
 }
 .button-login:hover{
-border: 1px solid transparent  #0097B2;
+border: 1px solid transparent #0097B2;
 background-color: #0097B2;
 border-radius: 20px;
+outline: none;
 }
 
 .material-symbols-outlined{
@@ -101,47 +104,99 @@ border-radius: 20px;
     color:black;
 }
 
-main{
-    display: flex;
-    color: white;
-    flex-direction: column;
-    padding-right: 18%;
-       
-}
 
-section h2{
-    font-size:50px;
-    font-family:"poppins", sans-serif;
-    font-weight:400;
-    line-height: 6em;
-    position: relative;
-    left: 10%;
-    top: 90px;
+  
+  main {
+    min-height: 50vh;
+    display: flex;
+    place-items: center;
+    padding: 2rem;
+    background: #FDFEFB;
+    font-family: poppins, sans-serif;
+    border-radius: 20px;
+    width: 500px;
+   }
+
    
-}
-
-
-
-section p{
-    box-sizing: 100%;
-    font-size: medium;
-    font-family: "poppins";
-    font-weight: 200;
-    position: relative;
-    left: 10%;
-    margin-left: 0px;
-    max-width: 500px;
-    
-     
-}
-
-
-/* article{
-
-    display: flex;
-    position: fixed;
-    left: 6%;
-    margin-left: 160px;
-     
-}*/
-
+  form {
+    width: 100%;
+    max-width: 30rem;
+  }
+  
+  label,
+  input,
+  textarea,
+  button {
+    display: block;
+  }
+  
+  input,
+  textarea,
+  button {
+    width: 100%;
+    font: inherit;
+    padding: 1.25rem;
+    font-weight: 400;
+  }
+  
+  input,
+  textarea {
+    margin-bottom: 1rem;
+    color: #4D4C4C;
+    background: #FDFEFB;
+    border: 0.125rem solid;
+    border-radius: 1rem;
+    transition: border-color 0.5s, box-shadow 0.3s;
+  }
+  
+  input:hover,
+  input:focus,
+  textarea:hover,
+  textarea:focus {
+    outline: none;
+    border-color: #FF5A01;
+    box-shadow: 0 0 0 0.1000rem #FF5A01;
+  }
+  
+  label {
+   
+    color: #84868f;
+  }
+  
+  textarea {
+    min-height: 12.5rem;
+    resize: vertical;
+  }
+  
+  button {
+    border: none;
+    border-radius: 99px;
+    color: white;
+    background: #0097B2;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  button:hover,
+  button:focus {
+    outline: none;
+    background: #014d5a;
+  }
+  
+  button:disabled {
+    cursor: not-allowed;
+    background: #555b69;
+  }
+  
+  .success,
+  .error {
+    text-align: center;
+  }
+  
+  .success {
+    color: greenyellow;
+  }
+  
+  .error {
+    color: tomato;
+  }
