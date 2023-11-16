@@ -1,6 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Quicksand:wght@500&display=swap");
 @import url('https://fonts.googleapis.com/css2?family=Give+You+Glory&display=swap');
-  
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+
 *{
     margin: 0;
     padding: 0;
@@ -104,4 +106,75 @@ section h2{
     font-family:"give you glory", sans-serif ;
     font-weight:200;
 }
+
+.content {
+    background-color: #fff;
+    position: absolute;
+    top: 20%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    height: 300px;
+    text-align: center;
+    box-sizing: border-box;
+    box-shadow: 1px 0px 0px 1px #888;
+    padding: 10px;
+    z-index: 100;
+    display: none;
+    border-radius: 20px;
+    border-width:1px
+}
+
+.close-btn {
+    font-family: 'Montserrat', sans-serif;
+    position: absolute;
+    right: 20px;
+    top: 15px;
+    background-color:#fff;
+    color: #000;
+    border-radius: 50%;
+    padding: 4px;
+}
+
+.Dados{
+border-style: solid;
+border-radius: 23px;
+padding-left: 5px;
+padding-right: 5px;
+padding: 7.5px;
+border: 1px #000;
+box-shadow: 1px 0px 0px 1px #888;
+font-size:15px;
+font-family: 'Montserrat', sans-serif;
+width: 95%;
+
+}
+
+.titulo-login {
+font-size:40px;
+font-family: 'Quicksand', sans-serif;
+color: #000;
+
+}
+
+.botao {
+width: 120px;
+height: 30px;
+background-color: rgb(24, 160, 251);
+border-style: solid;
+border-radius: 10px;
+border-color:  rgb(24, 160, 251);
+font-size:15px;
+font-weight: bold;
+font-family: 'Montserrat', sans-serif;
+color:#fff
+}
+
+.texto-box{
+font-size:15px;
+font-weight: bold;
+font-family: 'Montserrat', sans-serif;
+color: #000;
+}
+
 
