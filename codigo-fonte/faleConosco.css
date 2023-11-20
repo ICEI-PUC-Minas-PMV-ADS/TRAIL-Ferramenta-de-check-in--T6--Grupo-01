@@ -51,6 +51,7 @@ header, nav{
     padding: 20px 20px;
     font-family: "poppins";
     font-weight: 100;
+    margin-top:-10px;
 
     
 }
@@ -104,23 +105,36 @@ outline: none;
     color:black;
 }
 
-
   
   main {
     min-height: 50vh;
     display: flex;
     place-items: center;
     padding: 2rem;
-    background: #FDFEFB;
+    background:#fdfefba9;
     font-family: poppins, sans-serif;
     border-radius: 20px;
-    width: 500px;
+    width: 800px;
+    transform:translate(100%,-10%);
+    
+   }
+   h2{
+    color: #FF5A01;
+    transform: translate(30%,10%);
+    
    }
 
    
   form {
+    margin:auto;
     width: 100%;
+    height: 100%;
     max-width: 30rem;
+    transform:translate(1%,-2%);
+  }
+  main,form{
+    width: 500px;
+  
   }
   
   label,
@@ -136,14 +150,14 @@ outline: none;
     width: 100%;
     font: inherit;
     padding: 1.25rem;
-    font-weight: 400;
+    font-weight: 100;
   }
   
   input,
   textarea {
     margin-bottom: 1rem;
     color: #4D4C4C;
-    background: #FDFEFB;
+    background:transparent;
     border: 0.125rem solid;
     border-radius: 1rem;
     transition: border-color 0.5s, box-shadow 0.3s;
