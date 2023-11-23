@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+body{
+    background-color: aliceblue;
+}
+section, 
+footer{
+    padding: 100px;
+    background-image: url(assets/Kombe\ na\ estrada.jpg);
+    background-size: cover;
+    width:50% ;
+    height:auto ;
+    overflow:hidden;
+}
+.card-text{
+    color: white;
+    background-color:#ff5a01d6;
+    width: 400px;
+    height: 300px;
+    padding: 50px 10px;
+    align-items: center;
+    transform: translate(50%, 5%);
+    border-radius: 15%;
+    
+}
+.card-text h1{
+   font-size:40px;
+   
+}
+nav{
+    width: 100%;
+    padding: 10px 10%;
+    display: flex;
+    justify-content:space-between;
+    position: relative;
+}
+.material-symbols-outlined{
+    display:flex;
+    background: transparent;
+    color:#ff5a01;
+    font-size:60px; 
+    text-decoration: none;
+    
+}
+.material-symbols-outlined:hover{
+    text-decoration: none;
+    color:black;
+}
