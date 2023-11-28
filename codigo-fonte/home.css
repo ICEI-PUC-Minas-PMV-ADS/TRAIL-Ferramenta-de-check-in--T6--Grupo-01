@@ -137,4 +137,15 @@ nav{
     margin-top: auto;
     }
 }
+@media screen and (min-width: 1024px) and (max-width:1200px){
+  .card-img{
+    left:20%;
+    width: 60%;
+  } 
+  .acesse-roteiro{
+    margin-top:-10%;
+  }
+   
+    
+}
 
