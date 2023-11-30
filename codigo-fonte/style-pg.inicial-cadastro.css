@@ -1,0 +1,243 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Give+You+Glory&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;500&display=swap');
+
+
+
+.container {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row-reverse;
+    align-items: baseline;
+    padding-right: 1%;
+  
+   
+}
+
+@media (max-width:680px) {
+    .container {
+        display: flex;   
+        flex-direction: row;   
+        justify-content: center;    
+        flex-wrap: wrap-reverse;     
+    }
+
+}
+
+@media (max-width:390px) {
+    .container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        flex-wrap: wrap-reverse; 
+    }
+}
+
+
+.logo {
+    width: 150px;
+    display: flex;    
+    position: relative;
+    
+}
+
+@media (max-width:680px) {
+    .logo {
+        display: flex;   
+        flex-direction: row;   
+        justify-content: center;    
+        flex-wrap: wrap-reverse;     
+    }
+
+}
+
+.cabecalho {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    
+}
+
+.texto1:hover {
+    text-decoration:underline #ff5a01;
+     
+}
+
+.texto1 {
+    display: flex;
+    font-size: 1.25rem;
+    font-family: 'poppins', sans-serif;
+    font-weight: 500; 
+    padding: 1rem;
+    color:#fff; 
+    text-decoration: none; 
+    
+    
+    
+}
+
+.texto2 {
+border-style: solid;
+border-radius: 23px;
+padding-left: 5px;
+padding-right: 5px;
+padding: 7.5px;
+border: 1px #000;
+box-shadow: 1px 0px 0px 1px #888;
+font-size:1rem;
+font-family: 'Montserrat', sans-serif;
+width: 95%;  
+    
+}
+
+.texto-box{
+    font-size:1rem;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    color: #000;
+    text-decoration: none;
+}
+
+
+.content {
+    background-color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    height:400px;
+    text-align: center;
+    box-sizing: border-box;
+    box-shadow: 1px 0px 0px 1px #888;
+    padding: 5px;
+    z-index: 100;
+    display: none;
+    border-radius: 20px;
+    border-width:1px
+}
+
+@media (max-widht:430px){
+    .content {
+        padding: 5%;
+        left: 0%;
+    }
+}
+
+
+
+.content2 {
+    background-color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    height: 480px;
+    text-align: center;
+    box-sizing: border-box;
+    box-shadow: 1px 0px 0px 1px #888;
+    padding: 5px;
+    z-index: 100;
+    border-radius: 20px;
+    border-width:1px
+}
+
+@media (max-widht:430px){
+    .content2 {
+        padding: 5%;
+        left: 0%;
+    }
+}
+
+.texto-dados {
+    border-style: solid;
+    border-radius: 23px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding: 7.5px;
+    border: 1px #000;
+    box-shadow: 1px 0px 0px 1px #888;
+    font-size:1rem;
+    font-family: 'Montserrat', sans-serif;
+    width: 95%;    
+}
+
+
+.texto-dados2 {
+    border-style: solid;
+    border-radius: 23px;   
+    width: 45%;
+    padding:7.5px;
+    border: 1px #000;
+    box-shadow: 1px 0px 0px 1px #888;
+    font-size:1rem;
+    font-family: 'Montserrat', sans-serif;  
+
+}
+
+.titulo-login {
+    font-size:2.5rem;
+    font-family: 'Quicksand', sans-serif;
+    color: #000;
+    text-align: center;
+    margin: 0;
+        
+}
+.botao {
+    text-align: center;
+    width: 120px;
+    height: 30px;
+    background-color: rgb(24, 160, 251);
+    border-style: solid;
+    border-radius: 10px;
+    border-color:  rgb(24, 160, 251);
+    font-size:15px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    color:#fff
+}
+
+.close-btn {
+    font-family: 'Montserrat', sans-serif;
+    position: absolute;
+    right: 20px;
+    top: 15px;
+    background-color:#fff;
+    color: #000;
+    border-radius: 50%;
+    padding: 4px;
+}
+
+section h1{
+    font-size:5.625rem;
+    font-family:"poppins", sans-serif;
+    font-weight:800;
+    line-height: 1em;    
+    color: #FFF;
+    
+}
+section h2{
+    font-size:6.25rem;
+    font-family:"give you glory", sans-serif ;
+    font-weight:200;
+    color: #FFF;
+    padding-top: 1px;  
+    margin-bottom: 0%;
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
