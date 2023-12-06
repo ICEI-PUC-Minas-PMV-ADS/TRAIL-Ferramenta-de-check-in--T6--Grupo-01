@@ -10,7 +10,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Quicksand:wght@500&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
     <link rel="stylesheet" href="faleConosco.css">
-    <script defer src="faleConosco"></script>
+    <script defer src="faleConosco.js"></script>
 
 </head>
 <body>
@@ -18,19 +18,17 @@
         <div>
             <img src="assets/logo trail fundo transparente.png" alt="logomarca trail" class="logo">
         </div>
-        <nav>
-            <div class="cabecalho">
-                <a href="home.html">Menu</a>
-                <a href="sobreNos.html">Sobre Nós</a>
-                <a href="Roteiros.html">Roteiros</a>
-            </div>
-            <div>
-                <a class="button-login" href="#">Entrar</a>
-            </div>
-        </div>
-        <div class="button-perfil" id="buttonperfil">
-           <a href="#" id="personpin" class="material-symbols-outlined">person_pin_circle</a>
-    </div>
+        <menu>
+            <div class="button-perfil" id="buttonperfil">
+                <a href="#" id="personpin" class="material-symbols-outlined" onclick="clickMenu()">person_pin_circle</a>
+         </div>
+          <ul id="itens">
+            <li><a href="home.html">Home</a></li>
+            <li><a href="roteiros.html">Roteiros</a></li>
+            <li><a href="faleconosco.html">Fale Conosco</a></li>
+            <li><a href="paginainicial.html">Sair</a></li>
+            </ul>
+        </menu>
         </nav>
     </header>
 
@@ -53,5 +51,15 @@
       </form>
 
     </main>
+    <script>
+    function clickMenu() {
+        if (IntersectionObserver.style.display == 'block') {
+            IntersectionObserver.style.display = 'none'
+        } else {
+            IntersectionObserver.style.display = 'block'
+        }
+        
+    }
+</script>
 </body>
 </html>

@@ -56,6 +56,30 @@ header, nav{
 
     
 }
+menu ul{
+    display:none;
+}
+menu > ul{
+    list-style-type: none;
+}
+menu > ul > li > a {
+    display:block;
+    padding: 5px;
+    margin-top:2px;
+    text-decoration: none;
+    text-align: center;
+    background-color: aliceblue;
+    color:black;
+    border-radius: 5px;
+    width: 150px;
+
+}
+menu > ul > li > a:hover {
+    background-color: #ff5a01;
+    color: white;
+    
+
+}
 
 nav a{
     position: relative;
