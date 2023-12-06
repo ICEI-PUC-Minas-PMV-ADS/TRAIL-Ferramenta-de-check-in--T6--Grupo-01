@@ -64,6 +64,4 @@ class FormSubmit {
   });
   formSubmit.init();
 
-  function goBack() {
-    window.history.back(); // Função para voltar uma página no histórico do navegador
-}
+

@@ -90,20 +90,6 @@ background-color: #0097B2;
 border-radius: 20px;
 outline: none;
 }
-.back-button {
-  position: relative;
-  transform: translate(70%,1500%);
-  background-color: #0097B2; /* Cor de fundo do botão */
-  color: white; /* Cor do texto do botão */
-  padding: 10px 20px; /* Espaçamento interno do botão */
-  font-size: 13px; /* Tamanho da fonte do botão */
-  border: none; /* Remove a borda do botão */
-  cursor: pointer; /* Adiciona o cursor de mão ao passar sobre o botão */
-}
-
-.back-button:hover {
-  background-color:#014d5a; /* Cor de fundo do botão ao passar o mouse */
-}
 
 .material-symbols-outlined{
     display:flex;
