@@ -36,7 +36,7 @@ O projeto desenvolvido visa criar uma aplicação web que registre as visitas a 
 
 # Hospedagem
 
-* [https://icei-puc-minas-pmv-ads.github.io/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/codigo-fonte/index.html](https://icei-puc-minas-pmv-ads.github.io/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/codigo-fonte/home.html)
+* [https://icei-puc-minas-pmv-ads.github.io/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/codigo-fonte/index.html](https://icei-puc-minas-pmv-ads.github.io/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/codigo-fonte/paginainicial.html)
 
 # Código-Fonte
 
