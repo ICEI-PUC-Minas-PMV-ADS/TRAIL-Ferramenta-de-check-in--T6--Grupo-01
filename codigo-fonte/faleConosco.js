@@ -63,3 +63,7 @@ class FormSubmit {
     error: "<h1 class='error'>Não foi possível enviar sua mensagem.</h1>",
   });
   formSubmit.init();
+
+  function goBack() {
+    window.history.back(); // Função para voltar uma página no histórico do navegador
+}
