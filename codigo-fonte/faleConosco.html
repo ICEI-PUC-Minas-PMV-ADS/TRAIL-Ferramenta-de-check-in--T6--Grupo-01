@@ -31,34 +31,25 @@
         </menu>
         </nav>
     </header>
-
     <main>
         <form
-        action="https://formsubmit.co/ajax/trail.puc@gmail.com.com.br"
-        method="POST"
-        data-form
-      >
-
+        action="https://formsubmit.co/ajax/trail.puc@gmail.com.com.br" method="POST">
         <h2>FALE CONOSCO</h2>
-        <label for="nome">Nome</label>
-        <input type="text" name="nome" id="nome" required />
-        <label for="email">E-mail</label>
-        <input type="email" name="email" id="email" required />
-        <label for="mensagem">Mensagem</label>
-        <textarea name="mensagem" id="mensagem" required></textarea>
-        <button type="submit" data-button>Enviar</button>
-        <input type="hidden" name="_next" value="http://127.0.0.1:3000/codigo-fonte/paginainicial.html">
+        <input type="text" name="name" placeholder="Seu nome" required />
+        <input type="email" name="email" placeholder="Digite seu email" required />
+        <textarea name="message" placeholder="Escreva aqui"></textarea>
+        <input type="hidden" name="_captcha" value="false" />
+        <button type="submit">Enviar</button>
+        <input type="hidden" name="_next" value="http://127.0.0.1:5500/obrigado.html"/>
       </form>
-
     </main>
     <script>
     function clickMenu() {
-        if (IntersectionObserver.style.display == 'block') {
-            IntersectionObserver.style.display = 'none'
+        if (itens.style.display == 'block') {
+            itens.style.display = 'none'
         } else {
-            IntersectionObserver.style.display = 'block'
-        }
-        
+            itens.style.display = 'block'
+        }      
     }
 </script>
 </body>

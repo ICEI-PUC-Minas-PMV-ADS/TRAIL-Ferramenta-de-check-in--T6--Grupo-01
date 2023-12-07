@@ -132,22 +132,22 @@ outline: none;
 
   
   main {
-    min-height: 50vh;
-    display: flex;
+    position: fixed;
+    min-height: 20vh;
+    display:flex;
     place-items: center;
     padding: 2rem;
     background:#fdfefba9;
     font-family: poppins, sans-serif;
     border-radius: 20px;
-    width: 800px;
+    width: 500px;
     transform:translate(100%,-10%);
-    
    }
    h2{
+    display: block;
     color: #FF5A01;
-    transform: translate(30%,10%);
-    
-   }
+    transform: translate(25%,-20%);
+  }
 
    
   form {
@@ -161,12 +161,18 @@ outline: none;
     width: 500px;
   
   }
-  
+  main{
+    position: fixed;
+    justify-content: center;
+    transform: translate(10%,1%);
+  }
   label,
   input,
   textarea,
   button {
     display: block;
+    height: 50px;
+    
   }
   
   input,
@@ -198,8 +204,7 @@ outline: none;
   }
   
   label {
-   
-    color: #84868f;
+   color: #84868f;
   }
   
   textarea {
@@ -208,12 +213,17 @@ outline: none;
   }
   
   button {
+    text-align: center;
+    padding:10px;
     border: none;
     border-radius: 99px;
     color: white;
     background: #0097B2;
     cursor: pointer;
     transition: 0.3s;
+    width:150px;
+    transform: translate(90%,30%);
+    
   }
   
   button:hover,
