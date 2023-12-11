@@ -10,11 +10,11 @@
 
 
 
-> -paginainicial.html
-> -Cadastro.html
-> -style-pg.inicial-cadastro.css
-> -javascript.js
-> -index.html
+> - paginainicial.html
+> - Cadastro.html
+> - style-pg.inicial-cadastro.css
+> - javascript.js
+> - index.html
 
 
 
@@ -34,9 +34,48 @@
 4.Depois de terminar de cadastrar o usuário volte para a pagina inicial e vá para o Loguin.
 
 
-### Acesso de roteiro (RF-03)
+### Acesso ao menu de roteiros  (RF-03)
+
+
+#### Requisito atendido
+
+RF-03:O sistema deve permitir o acesso exclusivo só para os membros da TRAIL para  a parte de roteiros.. E também à páginas comuns para usuários não registrados como fale conosco e sobre nós
+
+#### Artefatos da funcionalidade
+
+> - home.html
+> - home.css
+> - faleConosco.html
+> - faleConosco.css
+> - faleConosco.js
+> - sobreNos.html
+> - sobreNos.css
+> - Roteiro1.html
+> - Roteiro2.html
+> - Roteiro3.html
+> - Style-Roteiros.css
+
+
+
+#### Instruções de acesso
+
+1. Após estar logado você será direcionado para a página e clique no botão “comece sua trilha” 
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/assets/82191618/5aa81841-f320-4961-ba58-dc8871ad25fd)
+
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/assets/82191618/2b877500-4c88-4e4d-aaeb-0b17180316e6)
+
+
+2.Agora a pessoa vai ter acesso ao menu de roteiros e vai poder navegar entre o roteiro 1,2 e 3 
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/assets/82191618/b9433f62-6284-4cfa-a643-910db7b871af)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/assets/82191618/4d991c54-b038-424d-93f3-e564a9ce3ed0)
+
+
+3.Ao voltar ao menu home ele pode ter acesso a página fale conosco e sobre nós.
+
 
 > **Links Úteis**:
 > - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
