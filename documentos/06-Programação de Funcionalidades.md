@@ -35,6 +35,10 @@ Conseguir transicionar livrevemnte entre as páginas home, fale conosco e sobre 
   <img src="/documentos/img/pagina inicial.png"
 </figure> 
 
+#### Requisito atendido
+
+RF-02:O sistema deve permitir o cadastro de novos usuários e acesso a plataforma
+
 #### Artefatos da funcionalidade
 
 
