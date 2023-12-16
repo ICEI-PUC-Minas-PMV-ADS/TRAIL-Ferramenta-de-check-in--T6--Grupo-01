@@ -1,85 +1,111 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="style-pg.inicial-cadastro.css">
-    
-  
+
 </head>
 
 <body>
-
     <style>
         body {
             background-image: none;
             background-size: cover;
             background-repeat: no-repeat;
             background-color: #ff5a01;
-        @media (max-width: 680px) and (min-height:500px)
-        {
+        }
+
+        @media (max-width: 680px) and (min-height:500px) {
             background-image: none;
             background-color: #ff5a01;
         }
-        }         
-        
     </style>
-        
-    
-    <header class="cabecalho"> 
-        <img src="assets/logo trail fundo transparente.png" alt="logomarca" class="logo">          
-       
+
+    <header class="cabecalho">
+        <img src="assets/logo trail fundo transparente.png" alt="logomarca" class="logo">
+
         <div class="container">
-            
-            <a class="texto1" href="sobreNos.html" >Sobre nós </a>
+            <a class="texto1" href="sobreNos.html">Sobre nós </a>
             <a class="texto1" href="faleConosco.html">Fale Conosco </a>
         </div>
     </header>
-    
-    </main>
-        
-        <section class ="content2">
 
+    <main>
+        <section class="content2">
             <h3 class="titulo-login">Cadastre-se</h3>
             <br>
-            <input class="texto-dados2" type="text" placeholder="Primeiro nome" >
-            <input class="texto-dados2" type="text" placeholder="Sobrenome">
-            <br><br>            
-            <input class="texto-dados" type="text" placeholder="E-mail"> 
-            <br><br>              
-            <input class="texto-dados" type="text" placeholder="Digite sua senha"> 
-            <br><br>              
-            <input class="texto-dados" type="text" placeholder="Confirme sua senha"> 
-            <br><br>             
-            <input class="texto-dados" type="text" placeholder="Endereço"> 
+            <input id="primeiroNome" class="texto-dados2" type="text" placeholder="Primeiro nome">
+            <input id="sobrenome" class="texto-dados2" type="text" placeholder="Sobrenome">
             <br><br>
-            <input class="texto-dados" type="text" placeholder="Cep"> 
-            <br><br>              
-            <input class="texto-dados2" type="text" placeholder="Cidade"> 
-            <input class="texto-dados2" type="text" placeholder="Estado"> 
-            <br><br>            
-            <button class="botao"  type="submit" onclick="cadastro()">Cadastre-se</button>           
-  
-
-        </section>          
-        
-        <script>
-            //função para o cadastro
-
-            function cadastro () {
-            confirm ("Parabéns! Seu login é:admin, sua senha é:admin");
-            location.href="paginainicial.html";               
-            }
+            <input id="email" class="texto-dados" type="text" placeholder="E-mail">
+            <br><br>
+            <input id="senha" class="texto-dados" type="password" placeholder="Digite sua senha">
+            <br><br>
+            <input id="confirmaSenha" class="texto-dados" type="password" placeholder="Confirme sua senha">
+            <br><br>
+            <input id="endereco" class="texto-dados" type="text" placeholder="Endereço">
+            <br><br>
+            <input id="cep" class="texto-dados" type="text" placeholder="Cep">
+            <br><br>
+            <input id="cidade" class="texto-dados2" type="text" placeholder="Cidade">
+            <input id="estado" class="texto-dados2" type="text" placeholder="Estado">
+            <br><br>
+            <button class="botao" type="button" onclick="salvarCadastro()">Cadastrar</button>
+        </section>
 
        
-        </script>
-   
+<script>
+    function salvarCadastro() {
+        // Obtenha os valores do formulário
+        var primeiroNome = document.getElementById("primeiroNome").value;
+        var sobrenome = document.getElementById("sobrenome").value;
+        var email = document.getElementById("email").value;
+        var senha = document.getElementById("senha").value;
+        var confirmaSenha = document.getElementById("confirmaSenha").value;
+        var endereco = document.getElementById("endereco").value;
+        var cep = document.getElementById("cep").value;
+        var cidade = document.getElementById("cidade").value;
+        var estado = document.getElementById("estado").value;
+
+        // Verifique se as senhas coincidem
+        if (senha !== confirmaSenha) {
+            alert("As senhas não coincidem. Tente novamente.");
+            return;
+        }
+
+        // Obtenha os usuários armazenados no localStorage ou inicialize um array vazio
+        var usuarios = JSON.parse(localStorage.getItem('usuarios')) || [];
+
+        // Crie um objeto com os dados do usuário
+        var novoUsuario = {
+            primeiroNome: primeiroNome,
+            sobrenome: sobrenome,
+            email: email,
+            senha: senha,
+            endereco: endereco,
+            cep: cep,
+            cidade: cidade,
+            estado: estado
+        };
+
+        // Adicione o novo usuário ao array de usuários
+        usuarios.push(novoUsuario);
+
+        // Armazene o array de usuários atualizado no localStorage
+        localStorage.setItem('usuarios', JSON.stringify(usuarios));
+
+        // Exiba uma mensagem de sucesso (substitua por redirecionamento ou outras ações)
+        alert("Cadastro realizado com sucesso!");
+
+        // Redirecione para a página de login após o cadastro
+        window.location.href = "paginaInicial.html";
+    }
+</script>
     </main>
-    <footer>
-        
-    </footer>
-    
-    
+    <footer></footer>
 </body>
+
 </html>

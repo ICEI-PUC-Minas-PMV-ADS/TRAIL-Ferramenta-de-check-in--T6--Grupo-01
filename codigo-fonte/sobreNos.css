@@ -53,6 +53,49 @@ header, nav{
     
 }
 
+
+
+
+
+
+
+header, nav{
+    background-color:transparent;
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-start;
+    padding: 20px 20px;
+    font-family: "poppins";
+    font-weight: 100;
+    margin-top:-10px;
+
+    
+}
+menu ul{
+    display:none;
+}
+menu > ul{
+    list-style-type: none;
+}
+menu > ul > li > a {
+    display:block;
+    padding: 5px;
+    margin-top:2px;
+    text-decoration: none;
+    text-align: center;
+    background-color: aliceblue;
+    color:black;
+    border-radius: 5px;
+    width: 150px;
+
+}
+menu > ul > li > a:hover {
+    background-color: #ff5a01;
+    color: white;
+    
+
+}
+
 nav a{
     position: relative;
     display: inline;
@@ -78,7 +121,30 @@ nav .button-login{
     background-color: transparent;
     transition: background-color 0.8s;
     border-radius: 20px;
+    outline: none;
 }
+.button-login:hover{
+border: 1px solid transparent #0097B2;
+background-color: #0097B2;
+border-radius: 20px;
+outline: none;
+}
+
+.material-symbols-outlined{
+    display:flex;
+    background: transparent;
+    color:#ff5a01;
+    font-size:50px; 
+    text-decoration: none;
+    left:-35%;
+    margin-top:-14%;
+}
+
+.material-symbols-outlined:hover{
+    text-decoration: none;
+    color:black;
+}
+
 .button-login:hover{
 border: 1px solid transparent  #0097B2;
 background-color: #0097B2;

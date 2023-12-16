@@ -18,17 +18,51 @@
             <img src="assets/logo trail fundo transparente.png" alt="logomarca trail" class="logo">
         </div>
         <nav>
-            <div class="cabecalho">
-                <a href="home.html">Menu</a>
-                <a href="sobreNos.html">Sobre Nós</a>
-                <a href="Roteiros.html">Roteiros</a>
-                <a href="faleConosco.html">Fale Conosco</a>
-            </div>
-        </div>
+           
+    <menu>
         <div class="button-perfil" id="buttonperfil">
-           <a href="#" id="personpin" class="material-symbols-outlined">person_pin_circle</a>
-    </div>
-        </nav>
+            <a href="#" id="personpin" class="material-symbols-outlined" onclick="clickMenu()">person_pin_circle</a>
+        </div>
+        <ul id="itens">
+            <li><a href="home.html">Home</a></li>
+            <li id="roteirosItem" style="display: none;"><a href="roteiros.html">Roteiros</a></li>
+            <li><a href="faleconosco.html">Fale Conosco</a></li>
+            <li><a href="#" onclick="realizarLogout()">Sair</a></li>
+        </ul>
+    </menu>
+
+    <script>
+        var usuarioArmazenado = JSON.parse(localStorage.getItem('usuario'));
+
+        function verificarUsuarioLogado() {
+            var usuarioArmazenado = JSON.parse(localStorage.getItem('usuario'));
+            if (usuarioArmazenado) {
+                document.getElementById('roteirosItem').style.display = 'list-item';
+            } else {
+                document.getElementById('roteirosItem').style.display = 'none';
+            }
+        }
+
+        window.onload = verificarUsuarioLogado;
+
+        function clickMenu() {
+            alert("Clique no menu!");
+        }
+
+        function realizarLogout() {
+            localStorage.removeItem('usuario');
+            window.location.href = "paginaLogin.html";
+        }
+    </script>
+    <script>
+        function clickMenu() {
+            if (itens.style.display == 'block') {
+                itens.style.display = 'none'
+            } else {
+                itens.style.display = 'block'
+            }      
+        }
+    </script>
     </header>
     <main>
         <section class="container">

@@ -1,14 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+
 /* CSS Document */
 
 
 
-#botao1{
-    border: solid 15px blue;
-	width: 60px;
-	height: 40 px; 
-    border-radius: 10px;
-    color: blue;
-	background-color: white; }
+
 #mainwrapper header {
 	/*Header 
 	BARRA DE NAVEGAÇÃO
@@ -187,11 +184,16 @@ nav ul li {
 	list-style-type: none;
 	padding-top: 8px;
 	padding-bottom: 8px;
+	align-items: center
 }
 nav ul {
 	padding-left: 0%;
+	align-items: center
 }
 nav ul li a {
+	
+	
+	alignment-baseline: center;
 	text-decoration: none;
 	text-align: center;
 	width: 120px;
@@ -208,11 +210,6 @@ nav ul li a {
 	
 }
 
-nav ul li a:hover {
-    background-color: rgb(149, 209, 248);
-    border-color:rgb(149, 209, 248);
-    cursor: pointer;
-}
 
 
 
@@ -254,6 +251,67 @@ footer {
 	color: rgba(255,255,255,1.00);
 	text-decoration: none;
 }
+
+
+
+
+
+
+
+
+
+
+.btn-primary {
+	align-items: center;
+	
+	
+	padding-top: 10px ;
+	padding-bottom: 10px ; 
+	padding-left: 8px ;
+	padding-right: 8px ; 
+	width: 60px ;
+	color: #FFFFFF ;
+	background: #2A60D2;
+	border: 1px ;
+	
+	border-radius: 5px;
+	
+	text-align: center;
+	
+	user-select: none;
+	cursor: pointer 
+	
+	
+	
+	}
+ 
+.btn-primary:hover{
+	background: #2B0CD8;
+	transition: background 2s
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -310,6 +368,7 @@ footer {
 }
 #sidebar nav ul {
 	margin-top: 0px;
+
 }
 footer {
 	/* Footer region */
@@ -390,6 +449,5 @@ footer {
 #content footer article {
 	/* Each foter article */
 	width: 96%;
+	
 }
-}
-

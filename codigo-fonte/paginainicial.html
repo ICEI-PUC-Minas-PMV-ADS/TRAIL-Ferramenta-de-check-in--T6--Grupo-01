@@ -47,54 +47,52 @@
             <br>
             <p>
             
-                <div>
-                    <p>
-                        <input class="texto-dados" type="username" placeholder="Seu e-mail" id="login" >
-                    </p>                
-                    <br>
-                    <p>
-                        <input class="texto-dados" type="password" placeholder="Sua senha" id="senha" required="" >
-                    </p>
-                    <br>
-            
-                    <p>
-                        <input type="checkbox" >
-                        <label class="texto-box">Mantenha-me conectado</label>
-                        
-                    </p>
-                    <p>
-                        
-                    </p>                   
-                    <br>
-                    <p>
-                       
-                        <a href="home.html"><button class="botao"  type="submit" onclick="logar(); return false">Entrar</button></a>
-                    </p>
-
+                <div class="LOGIN">
+                    <section class="content2">
+                        <h3 class="titulo-login">Faça Login</h3>
+                        <br>
+                        <input id="email" class="texto-dados" type="text" placeholder="E-mail">
+                        <br><br>
+                        <input id="senha" class="texto-dados" type="password" placeholder="Senha">
+                        <br><br>
+                        <button class="botao" type="button" onclick="realizarLogin()">Entrar</button>
+                        <p class="texto-box">
+                            Criar nova conta
+                            <a href="Cadastro.html">Cadastre-se</a>.
+                        </p>
+                    </section>
+                    
                     <script>
-
-                        //função para o login
-
-                        function logar(){
-                
-                            var login = document.getElementById("login").value;
-                            var senha = document.getElementById("senha").value;
-                
-                            if(login == "admin" && senha == "admin"){
-                                //alert('Sucesso');
-                                location.href = "home.html";
-                            }else{
-                                alert('Usuario ou senha incorretos');
-                            }
-                
+                        function verificarUsuarioLogado() {
+                            var usuarioArmazenado = JSON.parse(localStorage.getItem('usuario'));
+                           
                         }
-                
+                    
+                        window.onload = verificarUsuarioLogado;
+                    
+                        function realizarLogin() {
+                            var email = document.getElementById("email").value;
+                            var senha = document.getElementById("senha").value;
+                    
+                            var usuarios = JSON.parse(localStorage.getItem('usuarios')) || [];
+                    
+                            var usuarioEncontrado = usuarios.find(function (usuario) {
+                                return usuario.email === email && usuario.senha === senha;
+                            });
+                    
+                            if (usuarioEncontrado) {
+                                alert("Login bem-sucedido!");
+                                localStorage.setItem('usuario', JSON.stringify(usuarioEncontrado));
+                                window.location.href = "faleConosco.html";
+                            } else {
+                                alert("Credenciais inválidas. Tente novamente.");
+                            }
+                        }
                     </script>
+               
+                    
                      
-                    <p class="texto-box">
-                        Criar nova conta
-                        <a href="Cadastro.html">Cadastre-se</a>.
-                    </p>
+                  
                 </div>
                 
             
