@@ -13,3 +13,15 @@ A partir do menu principal o usuario consegue ser redirecioando para a página s
 Todavia, a volta para a página não funciona corretamente e usuário tem que usar usar as setas de voltar do próprio navegador para conseguir voltar a página que estava. 
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/assets/82191618/d60c1068-a042-43f4-9616-447dd15fb9a1)
+
+
+### CT-02: Verificar se o usuário consegue fazer o cadastro de um novo usuário
+
+### Objetivo:Verificar se o sistema permite a criação de novos usuários
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/assets/82191618/1f799338-7ca9-4d38-9d63-8dda47f884f7)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/assets/82191618/4b18f015-93ea-4f11-8c2f-4cf29456c099)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/assets/82191618/e148cd97-b02e-4251-943e-932cdf0f756f)
+
+No menu  principal o usuário consegue ter acesso a opçõa de loguin que irá abrir um pop-up para preenchimento de dados.
+Caso ele não tenha loguin pode clicar na opçõa "cadastra-se" e será redirecionado para uma página com formulário para a criação de novos usuários.
+Apos preencher todos os dados um aviso de cadastro realizado com sucesso. 
