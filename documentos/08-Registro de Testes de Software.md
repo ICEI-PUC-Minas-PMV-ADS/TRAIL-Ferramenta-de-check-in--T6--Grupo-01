@@ -25,3 +25,9 @@ Todavia, a volta para a página não funciona corretamente e usuário tem que us
 No menu  principal o usuário consegue ter acesso a opçõa de loguin que irá abrir um pop-up para preenchimento de dados.
 Caso ele não tenha loguin pode clicar na opçõa "cadastra-se" e será redirecionado para uma página com formulário para a criação de novos usuários.
 Apos preencher todos os dados um aviso de cadastro realizado com sucesso. 
+
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/assets/82191618/0e991c1b-b666-433e-8953-2925fc2c8436)
+
+O usuário deveria ser redirecionado para um novo menu com acesso ao loguin, mas infelimente recebe uma mensagem de erro.
+
