@@ -1,12 +1,15 @@
 # Registro de Testes de Software
 
-Relatório com as evidências dos testes de software realizados na aplicação pela equipe, baseado no plano de testes pré-definido.
+### CT-01: Verificar a navegação entre as páginas iniciais
 
-Os resultados dos testes funcionais realizados na aplicação são descritos a seguir. [Utilize a estrutura abaixo para cada caso de teste executado]
+### Objetivo: Verificar se a barrra de navegação e seus botôes estão funcionando corretamente
 
-|Caso de Teste    | CT-X - Título Caso de Teste |
-|:---|:---|
-| Resultados obtidos | Descrever resultados do teste  |
-| Responsável pela execução do caso de Teste | Nome do integrante da equipe |
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/assets/82191618/3d7dc13b-5686-4d06-9a23-057989f256da)
 
-[Inserir aqui as evidências de teste que podem ser apresentadas por print de telas ou por .gif de execução de teste]
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/assets/82191618/aab4fd6f-da0e-41d1-a08e-6f6e6fbc2830)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/assets/82191618/0107db46-72fa-41e8-908d-b9b82e0e2b0c)
+
+A partir do menu principal o usuario consegue ser redirecioando para a página sobre nós e fale conosco.
+Todavia, a volta para a página não funciona corretamente e usuário tem que usar usar as setas de voltar do próprio navegador para conseguir voltar a página que estava. 
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/assets/82191618/d60c1068-a042-43f4-9616-447dd15fb9a1)
