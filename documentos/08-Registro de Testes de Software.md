@@ -31,3 +31,21 @@ Apos preencher todos os dados um aviso de cadastro realizado com sucesso.
 
 O usuário deveria ser redirecionado para um novo menu com acesso ao loguin, mas infelimente recebe uma mensagem de erro.
 
+### CT-03: Verificar se o usuário consegue ter acesso ao home de usuarios , acessar o roteiro e transitar entre as páginas
+### Objetivo:Verificar se o menu de loguin esta funcionando corretamente e que o usario consque acessar a página de roteiros
+
+A partir do menu de loguin o usario não consegue ter acesso colocando seus dados de loguin, mas ele deveria ter acesso ao novo menu de usuários 
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/assets/82191618/7bc6a0fb-d0c3-4de6-b4b7-76f51430590c)
+
+
+A partir desse menu a pessoa consegue navegar para as paginas de rotreito na opção " comece sua trilha" e também consegue acessar as paginas de fale conosco e sobre nós.
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/assets/82191618/ab8c4e25-c120-4584-8e76-5e248ff6291f)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/assets/82191618/bf2b2cb9-b512-4ad2-9706-fee37d1623a0)
+
+Na barra de cima ele consegue navegar entre opçoes de roteiro
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/assets/82191618/d4e1efe4-518e-4089-9a4a-daa7b8ec197c)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/assets/82191618/b5eb34f1-4f3a-4c80-ae7c-ca2006c7c254)
+
+
