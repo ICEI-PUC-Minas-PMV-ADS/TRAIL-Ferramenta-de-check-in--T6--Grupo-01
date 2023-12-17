@@ -48,4 +48,10 @@ Na barra de cima ele consegue navegar entre opçoes de roteiro
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/assets/82191618/d4e1efe4-518e-4089-9a4a-daa7b8ec197c)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/assets/82191618/b5eb34f1-4f3a-4c80-ae7c-ca2006c7c254)
 
+### CT-04: Verificar se o forms de validação está funcionado	
+### Objetivo:Verificar se o usario consegue validar seu roteiro através do formulário do site
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/assets/82191618/92024e04-7052-4759-89f5-4875c7128419)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/TRAIL-Ferramenta-de-check-in--T6--Grupo-01/assets/82191618/50ccc25b-359d-449b-8e68-ee0a6aca63b7)
+
+Na parte final o usuario consegue completar um formulário para validar seu roteiro e ganahar pontos, todavia só conseguimos realizar essa tarefa com a ajuda da plataforma jotform. Não conseguimos ter nosso formulario por conta proprio e decidimos usar esse forumúlario pré pronto da plataforma para transmitir a ideia do projeto, mas seu código é externo.
